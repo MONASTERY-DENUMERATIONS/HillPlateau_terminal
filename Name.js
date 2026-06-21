@@ -1,5 +1,5 @@
 Entered_country : "country that you migrated to",
-Native_country : "country that came from",
+Native_country : "country that you came from",
 Born_year : "Year of Birth",
 
 ROL : 'Reason of Leaving' : [
