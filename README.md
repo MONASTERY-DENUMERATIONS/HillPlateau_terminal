@@ -7,10 +7,10 @@ This repo is for setting a systematic attainment of NIRVANA STATUS . Which is de
 
 
 The primary ecstatic open road scheme is based on open to closed inspections. The form attainment is keep and in being driven to casualise the services open schemes. Pertaning to the action services needed. The writing section is bordered as seperate banality to
-locate the primordial status of an entity measured/detected/inplay. In schemes of opening new arrival based on destination incurred , ideally.  The base state and the ideoolgies operted are carcinereted to carry-on next primordial attifaction. new responeses and details incurred are non-stipulated to get way with non-formation and non gathering included hubs. The hubs placed are mentioned or stated from exchange frequencies and currencies . But a strobe of change in filaments must be recorded to know any noun Inferences who  seek validation in prior stories and the futures next in keeping casket to produce. 
+locate the primordial status of an entity measured/detected/inplay. In schemes of opening new arrival based on destination incurred , ideally.  The base state and the ideoolgies operted are carcinereted to carry-on next primordial attifaction,self attestation,Nightly cami-lord,Off-pam,Man-Setter ? . New responeses and details incurred are non-stipulated to get way with non-formation and non gathering included hubs. The hubs placed are mentioned or stated from exchange frequencies and currencies .But a strobe of change in filaments must be recorded to know any noun Inferences who  seek validation in prior stories and the futures next in keeping casket to produce. 
 
 
-Death is pulmoneered ,  Is why strastruop spend at the land cruised new beggining. He beginned to track along the muddy vampire mud.
+Death is pulmoneered ,Is why strastruop spend at the land cruised new beggining. He beginned to track along the muddy vampire mud.
 There was forest ahead and it was speaking it's stories. The mountaineer wood along the strobbed national . Seeking his Enigmated light. What he had and was known to prefer was something he was looking for. At last time it was normal than before but why can I have a rolling strobed nation and then simply nowhere my casualties are being driven by formal . They see and ask why havent you played along. Are you playing for sure ? These marked vexers leads to errqneous tentity , Is there a cam that was violently kept ?
 
 
