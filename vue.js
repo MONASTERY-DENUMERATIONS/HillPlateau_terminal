@@ -23,7 +23,7 @@ Immigrant : <DRC : RVS : crossing = 'survivors' -> [Guest-table: true , open-cit
           Differentiation : Approach ,  [connect-[r-view, sect : pass, collective]]
           Toll : off; 
           Toggle : session,
-          Count_Iteratives : 0(! ) #onarrival
+          Count_Iteratives : !0 #onarrival
 ]])
 )]
 Functional-Encoding [V: pass,  G-sec: secular, [content ,  offset : PR]]
