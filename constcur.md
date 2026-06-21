@@ -82,7 +82,7 @@ e
 
 Punishment for curving late-tangentials: Credit:  off and K-form : Letter- ban;
             Uterus : magnetic, Cervical : Axsostrang, Cransinworm, Pullwinscam
-            Calculaable : ProAgentic : Services : Fed-chrome, Seat-metro : Giveacuss,
+            Calculable : ProAgentic : Services : Fed-chrome, Seat-metro : Giveacuss,
             Buzz-T , Breath -O[GEN, GENESIS < GEN -<T> smart-template]
 
 
@@ -104,3 +104,4 @@ Punishment for curving late-tangentials: Credit:  off and K-form : Letter- ban;
 
 
 
+deeper.io: <IOS.simple(6-from,i-dat)>
