@@ -3,7 +3,7 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
-This repo is for setting a systematic attainment of NIRVANA STATUS . Which is deeply ritualised and and cared to use among peers to perrs basis by human congenitalies. I want my interface to hold how many hours of aversion and how healthy is it in noticing the changes. If visible changes are formalised. Then a correletaed action or static voice is subtextrated.  R-stated , R-rated is falsified for peace keep relations. Borders , paddings and margins are of no issue. 
+This repo is for setting a systematic attainment of NIRVANA STATUS . Which is deeply ritualised and and cared to use among peers to peers basis by human congenitalies. I want my interface to hold how many hours of aversion and how healthy is it in noticing the changes. If visible changes are formalised. Then a correletaed action or static voice is subtextrated.  R-stated , R-rated is falsified for peace keep relations. Borders , paddings and margins are of no issue. 
 
 
 The primary ecstatic open road scheme is based on open to closed inspections. The form attainment is keep and in being driven to casualise the services open schemes. Pertaning to the action services needed. The writing section is bordered as seperate banality to
