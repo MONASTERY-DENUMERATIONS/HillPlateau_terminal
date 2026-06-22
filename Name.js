@@ -1,31 +1,91 @@
-Entered_country : "country that you migrated to",
-Native_country : "country that you came from",
-Born_year : "Year of Birth",
+/**
+ * Migration and Residency Data Module
+ * Defines the structure for user migration information
+ */
 
-ROL : 'Reason of Leaving' : [
+const MigrationData = {
+    // Personal Information
+    enteredCountry: "country that you migrated to",
+    nativeCountry: "country that you came from",
+    bornYear: "Year of Birth",
+    
+    // Reason for Leaving
+    reasonOfLeaving: {
+        education: {
+            type: "education",
+            collegeCenter: "centre"
+        },
+        work: {
+            type: "work",
+            place: "job location",
+            jobId: "job identifier",
+            jobRole: "job role description"
+        }
+    },
+    
+    // Professional Background
+    workSettings: {
+        ethicalBackgrounds: [],
+        ioStatistics: {
+            countryWeb: [],
+            gccData: []
+        }
+    },
+    
+    // Migration Details
+    migrationInfo: {
+        connectPipeline: ["Abroad", "jv_pipeline"],
+        siblingStatus: "remaining_last",
+        relationsLostDuringMigration: "Relations lost while travelling",
+        transport: {
+            wheel: true,
+            safe: true,
+            livingSpace: "applicable"
+        }
+    },
+    
+    // Residency Status
+    permanentResidency: {
+        status: "On-call",
+        dataView: "past social history",
+        socialHistory: {}
+    },
+    
+    // Terminal and Connection Information
+    terminalConnection: {
+        regularStand: "standard",
+        localConnection: true,
+        preferredLivingStand: "Cafe",
+        newSpace: "designated area"
+    },
+    
+    // Additional Information
+    countryRegimen: {
+        spoken: true,
+        content: "privacy protected"
+    }
+};
 
+/**
+ * Populate migration data with user input
+ * @param {Object} userData - User provided data
+ * @returns {Object} Updated migration data
+ */
+function populateMigrationData(userData) {
+    return Object.assign({}, MigrationData, userData);
+}
 
-       case: education[
-          collect--college:centre
-       ]
-       case: work[
-         collect--place:jobid:job-role
-       ]
-  
-]
-Free_collect, Name, RCC : [ticket :if => 'wrong-paint' , 'leave' = 'time' , return = wait()]
-Centre.work()
-Work:place:settings : {collect-[ethical_backgrounds,IO-stat[country-web, Gx-gcc]]}
-Compiler: [c.bear(offset:out-load[
-        connect-pipline: [Abroad,jv_pipeline],
-        remaining_last : Siblings,
-        lost_during_migrations : "Relations lost while travelling",
-  Rotor-form[wheel, transport : safe, living_space]
-  Permanent_Residency : On-call : <Data.view, past_history(social)>                 
-])]
+/**
+ * Validate migration data
+ * @param {Object} data - Data to validate
+ * @returns {Boolean} True if valid
+ */
+function validateMigrationData(data) {
+    const requiredFields = ['enteredCountry', 'nativeCountry', 'bornYear'];
+    return requiredFields.every(field => field in data && data[field] !== "");
+}
 
-Spin-off: wheel , 
-Collector: Forum -> Bus.scale('initial', 'customs' ,'array-mentioned' ,'early-arrival')
-Connection : All_terminal : [Regular-stand,local()]
-Bearer: preffered living stand, New_space : Cafe
-Country_regimen : Spoken , Content => privacy()
+// Export for use in HTML
+window.MigrationData = MigrationData;
+window.populateMigrationData = populateMigrationData;
+window.validateMigrationData = validateMigrationData;
