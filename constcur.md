@@ -80,7 +80,7 @@ Rc-rep , Lc-cat; Lectro-specs , Forto-Tran[ASF: CAD ,.TM[i]]
 
 Punishment for curving late-tangentials: Credit:  off and K-form : Letter- ban;
             Uterus : magnetic, Cervical : Axsostrang, Cransinworm, Pullwinscam
-            Calculable : ProAgentic : Services : Fed-chrome, Seat-metro : Giveacuss,
+            Calculable : ProAgentic : Services : Fed-chrome, Seat-metro : Give_a_cuss,
             Buzz-T , Breath -O[GEN, GENESIS < GEN -<T> smart-template]
 
        string CPS : "Child protection services"; 
@@ -94,7 +94,7 @@ Punishment for curving late-tangentials: Credit:  off and K-form : Letter- ban;
        Sending-[,borewell: [Prankster-regional(90, 9n8, n8, v9 , 05: [
 
                depth : till-water, : <source = main-ground : >
-               count-connect, os :  [previes-souces, regionala:  const_curtative (Rudimentary) off_pam
+               count-connect, os :  [previous-sources, regional:  const_curative(Rudimentary) off_pam
                
                 Charge,  Bystat:D-Dynamo: {Generator:Rod}:{[LADY_DOM : Offcam:[cp-0[.terminal(async: 'ICE' , 'CPS')]]]} , Noterritory, Offcam , Dashload, FastROM
                ]
