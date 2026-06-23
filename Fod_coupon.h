@@ -40,4 +40,4 @@ Consent_resend : retest : Case_content : File-[old:call-Cc,  decoratives, usr : 
 
 Graphical_lane: Threads__parallel[run - informatics(
      practice.reasons(reason,adjectives())
-),al {processes , RM}]
+),alt+ {processes , RM}]
