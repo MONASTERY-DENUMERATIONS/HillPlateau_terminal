@@ -1,0 +1,19 @@
+Package = locale{LLM}
+Content_registry = file.pod
+
+Sent_SESSION : OFFLOAD{B:DIRECT,x.com}
+content_set = set_rpm;
+wheel_rm : [ROLL_motors, Generators()]
+
+  Transformers_am : [
+       Dm:$esh : EM-dat()
+       Sound_wave : wave_pack()
+  ]
+
+  Transformer_pm:[
+    am_content : content.cc
+    npx_set: npm
+    npm_catlaog: log.sesh
+  ]
+
+
