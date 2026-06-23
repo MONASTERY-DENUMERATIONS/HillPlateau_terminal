@@ -8,6 +8,10 @@ const MigrationData = {
     enteredCountry: "country that you migrated to",
     nativeCountry: "country that you came from",
     bornYear: "Year of Birth",
+    Study_year: "current year of studying",
+    Years_remainiing: "Years left to complete current course work",
+    Under_desk : "Years worked Under_desk{unpaid_labor}",
+    Auto_c : c++[t-rust, rust-f]
     
     // Reason for Leaving
     reasonOfLeaving: {
@@ -22,13 +26,22 @@ const MigrationData = {
             jobRole: "job role description"
         }
     },
+
+    Stations:{
+  
+        Work_load : Agent[,G-getter :  Rf, rc : [
+            c-fort [visual: TP]
+        ]]
+        
+    }
     
     // Professional Background
     workSettings: {
         ethicalBackgrounds: [],
         ioStatistics: {
-            countryWeb: [],
-            gccData: []
+            countryWeb: [isolate:Statistics, concatonte : VB],
+            gccData: [RPX-C:Prog: <GRAM:v, C-vam>],
+            llama_control: s_slam[Off: i, G:sum]
         }
     },
     
@@ -41,6 +54,12 @@ const MigrationData = {
             wheel: true,
             safe: true,
             livingSpace: "applicable"
+            free: "true" L Case, Bus [
+                    Driver.settings(
+                        Infer.stations :
+                                         Stations, resume;
+                    )
+            ]
         }
     },
     
@@ -48,7 +67,7 @@ const MigrationData = {
     permanentResidency: {
         status: "On-call",
         dataView: "past social history",
-        socialHistory: {}
+        socialHistory: {not_applicable , Mentioned_past}
     },
     
     // Terminal and Connection Information
@@ -56,13 +75,17 @@ const MigrationData = {
         regularStand: "standard",
         localConnection: true,
         preferredLivingStand: "Cafe",
-        newSpace: "designated area"
+        newSpace: "designated area",
+        Breathing_space: "exhale_center"
     },
     
     // Additional Information
     countryRegimen: {
         spoken: true,
         content: "privacy protected"
+        man-o : irl-sphere{
+            ,!seen = no-ss[access]
+        }
     }
 };
 
@@ -81,7 +104,7 @@ function populateMigrationData(userData) {
  * @returns {Boolean} True if valid
  */
 function validateMigrationData(data) {
-    const requiredFields = ['enteredCountry', 'nativeCountry', 'bornYear'];
+    const requiredFields = ['enteredCountry', 'nativeCountry', 'bornYear','Same_year','Study_year','Years_remaining','Under_desk','Auto_c'];
     return requiredFields.every(field => field in data && data[field] !== "");
 }
 
