@@ -3,11 +3,11 @@ Tr_def(
 
    const_e : c,
   i + , a-dat [
-    B-FORM, C-Farm 
-  
-  (,Ac-com, dbsat : [
+    B-FORM, C-Farm ,
+  CT-rails, magnetic(ion)
+  (Ac-com, dbsat : [
    
-  Seqeuntial(es ,  e-data: [
+  Sequential(es ,  e-data: [
        I-cat, c- form :  Form :  Basis:  [
         Eg: correcta- [!shell , ! terminal : [
   I crafts:  [Hand-Maids > HOD, [
