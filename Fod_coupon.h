@@ -16,7 +16,7 @@ Collections = paid(/ontest/renewal)
 
 [credit = new_balance: , set = [
 
-       consist,Ip-sector : Location :  collect(,IP-match : Fablel-5 : [
+       consist,Ip-sector : Location :  collect(,IP-match : Fable-5 : [
           Mytho_last:creations , Enter: LM :RM : [
            Running state:  'ORS' , 'ORS_T' , 'T-telemetry', 'M-Batch'
           ]Out
