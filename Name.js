@@ -23,7 +23,9 @@ const MigrationData = {
             type: "work",
             place: "job location",
             jobId: "job identifier",
-            jobRole: "job role description"
+            jobRole: "job role description",
+            Work_place: "Settings",
+                Json.front{Formatics}[Matrix.{x.map[c.collections()(]}]
         }
     },
 
@@ -31,28 +33,37 @@ const MigrationData = {
   
         Work_load : Agent[,G-getter :  Rf, rc : [
             c-fort [visual: TP]
+            [Front-fortr , Deb-back-end :<F_O_D : 'enter' ,'country from border passings' : 
+            case NK, Warfare still existing Geography.
+            
+            
+            >]
         ]]
         
     }
     
     // Professional Background
     workSettings: {
-        ethicalBackgrounds: [],
+        ethicalBackgrounds: [Spectrum, Aut, MN ,MNIST , NNIST, CITE_TEST, CVE-PROD[J2_U_Cp]],
         ioStatistics: {
-            countryWeb: [isolate:Statistics, concatonte : VB],
-            gccData: [RPX-C:Prog: <GRAM:v, C-vam>],
-            llama_control: s_slam[Off: i, G:sum]
+            countryWeb: [isolate:Statistics, concatonate : VB(Virtual Brains)
+                        net_settings : Rx-cod: cac-x: <Sapphint>],
+            gccData: [RPX-C:Prog: <GRAM:v, C-vam>],[Prod_jam, [Form,Collections],[List,Rate_list, offset()]]
+            llama_control: s_slam[Off: i, G:sum][S:LAMA ,F: GOAT_RIDDIES, [rest,upkites, ER, ER_sum]];
         }
     },
     
     // Migration Details
     migrationInfo: {
-        connectPipeline: ["Abroad", "jv_pipeline"],
-        siblingStatus: "remaining_last",
-        relationsLostDuringMigration: "Relations lost while travelling",
+        connectPipeline: ["Abroad", "jv_pipeline",'Roots','Escaped Villages','Paths seen while migratings','Seen from remembering' , 'Selling_Body for survival'],
+        siblingStatus: "remaining_last","Alive", "Lost while travelling"
+        relationsLostDuringMigration: "Relations lost while travelling", 
+        switched-genres: :"Relations-Switched", 
+        connection_parity(Offload,Off_pod, blac-white, history...):"Relations-formed"
         transport: {
             wheel: true,
             safe: true,
+            home: temp/e-set{e-set, c : [Loan-summing , period_rocking()]}
             livingSpace: "applicable"
             free: "true" L Case, Bus [
                     Driver.settings(
