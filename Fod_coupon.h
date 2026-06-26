@@ -6,7 +6,7 @@ Coupon = Transport(
 
 )
 
-Primary_objecticves  = id.chain()
+Primary_objectives  = id.chain()
 Crime_detector, Telemetry = chain.length(frequency_back, rigorous_attainment = "CSIR");
 
 Offtest-[Cyber.gov.in :  Int telemetry :  sanchar_neethi.ltd]
