@@ -32,4 +32,9 @@ const recollect =>()/Traditional[patri-abuse : <u-bias : arcTon, Factcade> ]
 VB.direct('c',port)[Fable-flash , pic-modules] => previous(buf,fact)
 Cable : fax[--methods of revival : [cs-piplines, abused_survivors]]
 
+Portal(Limerence : Z[code, C-form : Form(pac-x : eaten by [Whale, [Consumed, Death : [check:Fentanyl:poisoning]
+Provide DAC]DE]ADDICTION)CENTRE]Free) :- Weining: <Swiss-based> : [Fornicated_Withdrawal, Complete_Withdrawl] -> Illegal
+
+"Doctor"|"Nurse"|"DEA" - > Putting captured @risk
+
 
