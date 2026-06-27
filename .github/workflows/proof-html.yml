@@ -6,11 +6,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: anishathalye/proof-html@v1.1.0
+      - uses: No
         with:
-          directory: ./
+          directory: ./{$:src}
 
-Dispatch: Proof
+  concurrency:
+    mapping{}cancel-timeout-minutes: timeout-minutes: special ,minute-out;
+  Materials : Solds
+  Proof: Exchange_rate;
+  Sold_history : History_socials;
+  Rebellion: Act
+  Beggining : Home
+  
 
 
 
