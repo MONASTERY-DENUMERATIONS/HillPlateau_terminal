@@ -50,6 +50,7 @@ const MigrationData = {
                         net_settings : Rx-cod: cac-x: <Sapphint>],
             gccData: [RPX-C:Prog: <GRAM:v, C-vam>],[Prod_jam, [Form,Collections],[List,Rate_list, offset()]]
             llama_control: s_slam[Off: i, G:sum][S:LAMA ,F: GOAT_RIDDIES, [rest,upkites, ER, ER_sum]];
+            MMC:Back_Ground : CC_Data : Clear{Ransoms, affecting{Working} , Currency likely = ₹, Former_agency}
         }
     },
     
@@ -78,7 +79,7 @@ const MigrationData = {
     permanentResidency: {
         status: "On-call",
         dataView: "past social history",
-        socialHistory: {not_applicable , Mentioned_past}
+        socialHistory: {not_applicable , Mentioned_past , lost_publicities}
     },
     
     // Terminal and Connection Information
@@ -88,6 +89,7 @@ const MigrationData = {
         preferredLivingStand: "Cafe",
         newSpace: "designated area",
         Breathing_space: "exhale_center"
+        Content_registration : "PR_center"
     },
     
     // Additional Information
@@ -96,6 +98,9 @@ const MigrationData = {
         content: "privacy protected"
         man-o : irl-sphere{
             ,!seen = no-ss[access]
+        Speker : Fm,
+        Om = IRL;
+        Serde : <BEV.CO>
         }
     }
 };
@@ -123,3 +128,4 @@ function validateMigrationData(data) {
 window.MigrationData = MigrationData;
 window.populateMigrationData = populateMigrationData;
 window.validateMigrationData = validateMigrationData;
+Validate(Propagation , Function_mate : "Sent_Session")
