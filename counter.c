@@ -25,4 +25,10 @@ Control_c: [p:panel, od-set[odm : key , vite.j.config(fig_pond: crash_letter)
   OPSET: eagle, 
   counter-T : stall
   stall.com = 'shop'
+  Care_loop = 'loop'Inter-grations , Vector-pool<U8, Mut[int]>
+  CAP = Knee;
+  That = bolt:fault{"attachment =- Battery , Unit-control , RC : [
+    User_form : Track-C8;
+    Router-Doc: <KM.B_TET.SM_DC: [ORC:CODON]>
+  ]"}
   
