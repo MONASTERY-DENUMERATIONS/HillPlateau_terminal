@@ -9,8 +9,19 @@ Sargem , ROM  : ROM :  cp ?                                              OSrajar
  0- vay;lnt;  vaultl  prtimal; mine-se : oay-0t
 b Mhetvb a= deskjk  [] , Sojr- bistrpo  [ ] '                                 Bv- Zoer[] sooper- dfover- int [ ]nInt : c  [see l  ]p[ Sifetet ; [\]  afe- test L clen a   pisl  p pus
  
-  }{  fortan   [] / bvSql  
-     efl  -  neerg yg '  []  k []  Fccl queryg   p[ [n[]                                                                              Everienlg l ;ever;/ cmcubt.m '[] "; {kaxmxon ; jkcrdasj m . [pjkpkam;scger';' ][]   d,eke r.  , .
+  }{  fortan   [] / bvSql                                               Maester Dock_ram [] fa,set: []  [rocke.dc : ][ 
+      Lig.tab []  [fun.at []  } [ ]Counter- state : [] off strikep[] } Set. dr []  
+       setter ][p   correct :  c []  
+     m pi  [] 
+       mp 
+     p ] 
+      [] 
+      ]] 
+              regiona l []  Arch -  trams[p] 
+      []fmm p - [] t-  peg : ] 
+ []  menatrual 
+           []   arckequeninen :   n - arginine - []Tenc- []  vailt : [] 
+ efl  -  neerg yg '  []  k []  Fccl queryg   p[ [n[]                                                                              Everienlg l ;ever;/ cmcubt.m '[] "; {kaxmxon ; jkcrdasj m . [pjkpkam;scger';' ][]   d,eke r.  , .
       ;] " U f-n rma;l, [ ] smrehekepr- f0oer  kvuter-xl / [  ; ,Ct_ saona'l ' \p " ; vaagopyhos;l
 m [] nc- lo m .   ypeW ][ offer-j lpaudfi ; 
 ;\   pusket :' ][  nrudd5a : abvas8k;l  [] [  ' mea- set l offer- dirce6l  correct -c Ifpr,al [ "  fprmatoons.. []   kc- cotrect ; []  constel fortm  cfporn l [] :  nera  " correftr l  eta mu7nm . 
