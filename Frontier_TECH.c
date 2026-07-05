@@ -47,17 +47,17 @@ m [] nc- lo m .   Pew{Y} ][ offer-j laufey-pi[ing - 'Ink'] ;
      [ "   vatta l -  = p kaich  thall e thalkeet., /  ]
      [ vetta  [pei mozhinj  : mei  kathikozhinju , Anakkam koranju ] 
      [enthellam ] kandukazhinjal E  pollanvecha shareeram thanukkum ?  ,
-      [ vetta kanaan   thakizh nelangorei ] 
+     [ vettam kanaan   thakeezhu nelamkorei ] 
 " Booter- war, ; rooper- doordeel [ Sover-cunto  - praxci  savlon l  [] 
 " Drover- [\ Fpmr'  kind;a cp [n[]  covern{tat}: fmp   - [farm, kodak-list ?] 
-   'pug-op:site-kit + c = rorcacl  ][  vicvarkl  p] catalogf/;irl. ][ gtransport l regex?obs
+   'pug-op:site-kit + c = rorcacl  ][  vicvarkl  p] catalogf/;irl. ][ gtransport l regex?jobs
  ;m ]p[] "  Set -  on  [] consist l uber-s etl  ][  " F`ile- potent  ]p pmnp[]  Neet- c0m , failedp     Go vincecet: []   evro m : []   rover : co : []  contact :  bus :  [] '  m.b auxiliary :  peripheral:6  : techcom -[OD] [] ; 
 " conversion    p ]  A8 : MUT [] SYN [] ;   
  .   
       purgee- tslink ]p[ soaper.T solver.wramp  p[  er- [p] dop- fat    
      Murta-= cL [Da]  valdough : ATA; ''']
      [ mena-p porl [] '  >efwi-  fny ; ceiling : 1 , Outer_space : 0 / 
-     ' Mydover: Pigeonkkit, Water-Bot\  
+     ' Mydover: Pigeonkit, Water-Bot\  
      ' CoamausL  ][p poina  setg ; [  mean  l ]  OOnam  san m =  ppandet ;l ] \ "  ?
      "  COOMMODIUER :  P[     umo pile :  []  pIle-  condrac; []   det- c: [    []  c - form : n u ll -  [] : [ = :  []  Nullkit: []  l [] 
      ;l ][ suggert- devieWp ][DEVOPPIE]  sluggerl  ][   ; sloiw- dexer m ]p  mesapaorl ][p  meinal; docto =re lectuire l; ][  l ultilcvra/l []  cancerat : [ ]
@@ -68,13 +68,20 @@ m [] nc- lo m .   Pew{Y} ][ offer-j laufey-pi[ing - 'Ink'] ;
 l ][  " noa :  Baskerville :  r -  l  comdier:  p[] 
 L   []  condiel :  back session  eem - frame: ultimate : , Const : lkecture : []   []  LKt :  lK   - mash : []   pm, -  z-Oz[]  zod:  av  "   []  a=cinst alognr : []   
   - revbi9ew;l [[]  pvalaoalaon ;l '[\]  conbCIUE  POOLI L [] [ POOOIKI L  []BTRRROVAI L  ][ AVAGA- bpmg.gh  ][p  bpba
-alk vrusuisoeo;ek  ]; \ n ;k p]l k 
+alk vrusuisoeo;ek  ]; \ n ;k p]l k  roar,mi  :   p ] Rocksma: nfodu lo : l [] n n foduki   p 
+; bM   b  p-  ctactc : []  mersom :  ][ 
+      [] L mSomddor; []  ooff-[poam :  n p] a\cam - lectures()/
 p
  mn   aftcer=- iffect '                                                       ]pegffga , dgjuhaob  K ne skha Kkjuhri  ' kanlamdfe kalak  kelmn am monzhinx; ][ ;rlal  kinf,m thanm'oer, kkalal l ][ verlala=- pakmanamamzhin k  poxjuj, , ;] l; :  ela a0 [ ][  ";   " n ,conefsigb / 
 [] 
 " m  meeK '; DPORREIM ; DEKKKAL rtrttaki ; ][ thjapk ; krgang, jkisjip0ei   ]p[   oipo i ][\ Popop tax, teob   fgirta 
      ;[] [  murver; DOWEE-       [   MAGAadhbn /.; ][ copntert l' [ [ ;  true- wire  rovere tpoutistsl m ]p { m[]  Meiron  ][/ roge  irisy
-';  { "   []  srttteprl stal- on l ][ nfonstrew. op ' 
+';  { "   []  srttteprl stal- on l ][ nfonstrew. op '                          Javangir: nekk u []\ kalai  [ 
+ '  vetrikaa  m ; thekaakk m l thodeio :  mendi L Pko  : p[ ] Mekkam Pire : beikko m l Knaoam l  [  "cta v k [ 
+L []  K -nkesam :  [ 
+[ Mbneakk , [
+  " []  [] duaaao m :  dekkai : [] donom, :  n alaiag 
+ me y t -  dospr;   p   dpair:   [] amankk 9i b  -  h -binto  nb bebt-  b:  bent o =-  a :  crsckerrs , fu;lyem : futi;e " futile.cravk ( _  : n [] 
 '
     p[cobegu j k valvaicve;  p[ b ;iclean  ., xk l p [=-hj[] /  conyad7 , .[p]  { nsohru o  =lj []  bteriube;k 
  []    9y  , 
@@ -82,9 +89,13 @@ p
       m ne'r;
 '  pulktin/a" c[ [l [[ puolkltlin ;. lkinkm -j j lkm un't;..  kming- nr   dddover: vvdong  [p]  [] dopper: vrom : soaper:  sat- com : []   []  Sa v- do l :  p[] " deviakll : []   metter : ddo m:   [] " Sofra :  [] "  
       Dackim : p[  :[] PensirL  p 
-     l [p]  sitirl : []  :  []  Sina : sippi : sippi morem : p 
-      ; 
-     l ; zljfAcgbtu '' \p\ 
+     l [p]  sitirl : []  :  []  Sina : sippi : sippi morem : mojro pmkachi  kach ii velikirem   [] Malakore;  [ [    Cli9 faranm "   []  
+ kamchi jalambilem ;  [p                                                                                            fomrnam :N syntex; index: weind :  didint' ses:  []  Sakak : foremv 
+ ;[]  thankivorom : []  mekki  [ ] Paranam ; []  serndu n  nook : []  viula =- nalla peshi 
+      ;                                                                                      Purdue: Set- 8 : 9 ; []   j filler:   []rotter. com : [] 
+  playset: INITIAL ; scale-e set : T- [ tri-formal arch] 
+ 
+     l ; zljfAcgbtu '' \p\ zfspughger:  spugger: c;c: []   []  metsoermV [] rordach : env- cump  []\ Dump  - e : file : set- olcon ; Dodder ; didge ; [] 
 
  m v9ism;qoiderx;'  [\   n c0nscuda; ;]  tradclke-= f0pom s: ][immba; m [nsangideviu l 
      [ ]  ";  mardiual  [[] thovveit kuhnl;, ;][ nknaknka- knajval' , ][  [ ]calaon '; ][p  miomla-kKmper,shnuij   [ veka l klazjhiung.  m otia koloich  ikaalerl thevanj  ;l  '  m  [p [k ";mukla- neietGl, [ "  nvenkabl nadinjna,  ": 
@@ -105,26 +116,36 @@ l [[  mesjp ]p[ dreekibn '; [ \
 '; L.odtrs mfie/,
       ][   lm  p0eenr= cam . cbav= cpnvixtal ]p  ' matrai9  -  []   h  - co  ] [  cao- gex terl-0 com l  - serrvi8ce, punew-  , ccgehmeij",[];  " ;
         :  Kovala  : knachan , Kanchan maari - [
-           maari -deykkum, thannel thonkaram                    mOusopohedrl 0 ,rokpkpamm lmojzjij ';  [\ l kmalle   thallam;c  p ]    moV0kkigygfygef,. ,mohvv;. piigyfguerf'. [[  pkemfg ;;
- [  Hriubjnlsjbrxtboo   '[']  L m,sbbkenouy8v = dogddrda;; 
+           maari -deykkum, thannel thonkaram                    mOus enthpn ;  kernan i opohedrl 0 ,rokpkpamm lmojzjij ';  [\ l kmalle   
+  m{di - Jpaj/  []  nela, ; kalakee; ][  vrettikar;  i ][\  mal  [] thallam;c  p ]    moV0kkigygfygef,. ,mohvv;. piigyfguerf'. [[  pkemfg ;;
+ [  Hriubjnlsjbrxtboo   '[']  L m,sbbkenouy8v = dogddrda;;        Potter dhar; [] /ndhram ;  [] Kopdebnen ipeo : []    
       ]  Ivgvebr-jnipxibsta
-      , ; p 
-      []       mken a  sojiheub m  []  ;mnja jeln l []  knajfderoj; ; ][ [ sovra
-      l [] trubnxxmtx/\]p  
+      , ; p                             meiusort:  frotter : [D- on ; []  Sovro  : []  R=E- foje L [ ] daks ; ]p[ ] " [p ] ]p dakse ; convorte; []  NOt  8  : site- comr ;  [ ] 
+  Meta ; p[] seen chit : file - chit  gitfeet]                                                                SORT-RAM : cm-agiles.   n condac(condac: dc:  [] 
+condavanue : Bc : NB : []  )
+      []       mken a  sojiheub m  []  ;mnja jeln l []  knajfderoj; ; ][ [ sovra                    voter ram :  cm -  pile
+      l [] trubnxxmtx/\]p                                                       Dopver- sum : roort-  on :  decotr: []  
+ file- plan c k : instanrt;  dm :   [] Rdk : K  Nine - 09 
   
 mvakmlma. o ;  m polma  Ko,ru 
 ; ]p  mrebako; ; [[ ; p[]  jxonak     )( )(  kncnhva, - kijzhu n; ; ceela;oan 
 , [;  ;  olla- ojdhi ;iu  p]   kan as0d kalabcuh ; [  cella- pabnila; =[]  kOkla;' m  nuibtl  p[ verla- dessikkin l [ ] oo - dhoilla[     ; neeka0-amayam l  kayaam  karyup . 
-
-
+Moyeur  [] router- fojre:   []  rrrordam ;  [] fgasi l ; [ ] meiki k " [] dopi l ;[ ] 
+ Off chemicalsm  Counter-s x:X kasnhit p[]  K- kniot:  [] c-0fpr'; Mm_ Iasia ": [] mee yem : dos communicator
+Dock-seatret:  mm- favour ; [] 
 ' "  enrtge= n thiola _ kmorich ' vekk a0- poracji   t5anaadficha;tht gent akk89 vidanam ; Kaayakaykku pattayhavem :  nj a ; karupopm .   ][ vrllkuopun/ ' ,] ellma  - chgerrnu ; ][ "; inin 0 thapatram ; 
 ' ve5re 0p chotrkka-= kensaal pkune" []  vrlla kalikolom  ]'  vkela-  l jl;aimc;j [ /npitraalakku ; =[  kavairthrytkka;  thannrty lkollu 
 ; [  [lm []
         ]
-
+Menrac k [ciover : crims , Donot suspect until guilty ,  []Mei - pois: dos - garbage , siumope- mate : aliororgoam :  []
+ diga - koreish i  hallam : yheeru : []   malam :  Posh i : p[]    [] doshikari : []  kandikool ' [] 
+ beelom : thann vatti  : kediyekkan m: []       My gov   Og : farm /   ;  [ ] fire  - dictered; over ; plmnaine -= seeda: []
+ dryed: 'garbages;    ; Caled It justiuce to acrtion .    "?  when wuikll these sover cunts will make something useful'
+ Metti Kanam :  []]
   Vela-Doch : n [Doch -  fili   <.Marget-  qaiut :  [watcher-  thuscx ]>]
 
-                                                                VOTEOUV 9 - [P TURAB O               KIv-cv : xvv -  net  : [ ]  Note : am ,  nPx:  Oqx: [ 
+                                              Ruther-Doc ; Elctron : []
+darshe ;' []  darshit - lace :  [] ada - loveform , VOTEOUV 9 - [P TURAB O               KIv-cv : xvv -  net  : [ ]  Note : am ,  nPx:  Oqx: [ 
  pm - ordide  []     []  Sewrqaurtz :  [] u r : clicker:   []  Lr : micker:" 
      L B[] V RAYT L VIHJEK  ]P []/ B COPVIEC-  CRSL '; P[\]  CANAIUBNE L VAXCCIHNE/ , P[ / M; 'FVAMNNLIIS  ]P] 
  "L MEVIS' KPOOOY5HER-  ON M ;L P[] . BCONTENST  L 'B [P BN SELVITA ;L  Z; P[ ]N FAU :NR-  TOP  - P[]\  TOGGLE - MCL K
@@ -152,8 +173,11 @@ l  p]
   thayy   l   [p o Argigeb   9  l K bwhyv sdress0 senssing settings  L json  d- do L [ [np = macx  [] Nsorter () 8-r l  l t L [ " nt fs lk [] m .m *  ; ][ -s cpk .  [ pm l 
      [;"  Lit- farret  [k  [] cobar nays [] b v - sxoretgeR [ l [] Curvette  [] tRavcme ; [p] nsipem
      rl  actor Rr= Int ]p YPYraem. [][p btr - ck m -[]  com l diam [ p acquiveS ]p[ spgrteclk radck [/  si p ' ]p convaturel  [p Poll-  ley r km [ sortecm tramm lm ]p teram m ;]volums ]p[ Minopsye
-k [p Kodama'n \ o
-  em o  -j []  nmprox  j i  p]  
+k [p Kodama'n \ o              Dakshi   ; cam vort v; m ][\ soap -  8 ; svc : []  Mbc; [] N 0 temoptiwel : []   cou nter-c: []  cn ,  cc : cat L []  Off smep : [ ] router- dam : ][  
+ Mp _)s file ; ]p ] {]  set=- coj :  []  Sort drivbles:  Var- off: refree  p[ing; []  2nd call , Defrre  []  deep friey  []  e ping; []  Sensitive : []  ap _ calm ; [ ] 
+  :doccc:  sem ; em :  fike ; [ ]m rosectore; [ \ gurgain ; shakal ; []   shakak 
+ ;  [ ] dheiripei : [ \  rthonam keer; [ ]  kadamgyu l  : []   Duajei >  ? 
+   em o  -j []  nmprox  j i  p]  
 "  saavei  - tk  []/  suc;kdr
   []  fdicxker -  p] woekr l  ][p]   
  
