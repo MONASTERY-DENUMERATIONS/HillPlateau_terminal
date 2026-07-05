@@ -2,46 +2,71 @@ import os
 offer parags: 
      Sem-potent 
        Arcquivinile, 
-Sargem , ROM  : ROM :  cp ?                                              OSrajaru  L'; [] Jhabrc [j jibvpjeron mp] 
-     ' uvci m' [] mema,vnc Pifhy  ban l ,m Potterm []p turueamain , ]p cvptfer-n Pql  ][  wlecome call , [] cater-c  l  ]'  r- brac {} nm - slvia l  [] '  p portl  p[]  yopur- sum , derivavel []  ebtivAm p[ pm " 
-     : Miyadospor , porcelain :  mita, Sita- dakun , dakmubn 0 fila                  VaerrtonvAl concayemefal 
-[\  lvenatL ][ mn .< ton_ commteR []p teraxclsl _ psffer0 mal e]p . p  []  ej - =  [] oc; cpson   ][p  cosod
- 0- vay;lnt;  vaultl  prtimal; mine-se : oay-0t
-b Mhetvb a= deskjk  [] , Sojr- bistrpo  [ ] '                                 Bv- Zoer[] sooper- dfover- int [ ]nInt : c  [see l  ]p[ Sifetet ; [\]  afe- test L clen a   pisl  p pus
- 
+Sargema , ROM  : ROM :  cp ?                                              OSrave L'; [] Jhavled [j-join/mp] 
+     ' uvcon m' [] memset,vnc Pivy  ban l ,m Potterm []p true_main , ]Ip counterfeit-n Sql  ][  welcome call , [] cater-c  l  ]'  r- brac {} nm - silvia l  [] '  p portl  p[]  your-sum , derivativel []  limit0 [] " 
+     : Sorter.(AP-Files) , porcelain<meta.c[W[omen dusk by prayer]]>:  mother, Sita-sail:on , daksum -0 fil[a : Beach Terminal ]                 
+     Waiter-Side <concat.metal Brick : <offer.c> 
+[\  IVFNEST : Application.io
+][ mn .< ton_ commentor []p terracot _ puffer mal-e]p1,[live.section [Initiation = 'play' , sum_form = .N]] . 
+p  []  ej - =  [] oc; cpson   ][p  cozod[Dp, File_view]
+ 0-way;lnt{Backdoor:Front(()};  vaultC-primal; [myset , Main{.dotframe[.]}] : pay-0t[secrets , {$.9}]
+b <-> a = desk.js  [] , Soju-bistro ,  cleanai, metal.chain  [ ] ' Bv- Zodder[] super- driver- int [IntJet , JetInk , BlackB : c 
+
+[see l ]p[ Siegekit/[See_frame : <Target = 0 , Shell = product , action = 'freed' ? [count r while implementing]>] ;
+"SIEGFRIED"
+[\]  after-test, [Clean, bandits : [Bandits , Coverage :  [Siever-age : PS : 'M.c' : 'fraud']]]
+Digitalize_bandwidth : <Live.stream('Saving Session')>
   }{  fortan   [] / bvSql                                               Maester Dock_ram [] fa,set: []  [rocke.dc : ][ 
       Lig.tab []  [fun.at []  } [ ]Counter- state : [] off strikep[] } Set. dr []  
-       setter ][p   correct :  c []  
-     m pi  [] 
-       mp 
-     p ] 
-      [] 
-      ]] 
-              regiona l []  Arch -  trams[p] 
+      setter ][p   correct :  c []  
+     m pl  [Matcher : Rate ,  Annual_Rate, W-[low.BMI]] 
+       mp  ' based-commodore new-micro[forum, IdeaPayGig]  
+     '  Ilm : []\   Sec: x :   p]  bash : $ ; []   PlantKit-transliberal{Y:'saying reasons' -> 'FAT'} : 
+                                                 [p]  "mgroove[out] n [times]  given : call :  [VM-Fb]  Aqi :  [I-index by city]  
+                                                  I portray mindset   ML transitions vexkit , Router-Driven[.ctx: Kit,[transmit-line]]   
+       ' gloverdat : [clovercat]  d c = 
+        'sunprime  [] : IBT/H   p[]   :Avr(Avg : F)
+        apdistrict:  [] \
+        gave-z er : []  ec ; dn -e con   call m ; l [ Lps
+     p ]                                           Voter :  Sorter[]rom ;  callit, waitbut - []sculptme : [FORTAN : BOD]  [BODY:LETTER] 
+      [] , Sort_tran : liberal_<mesin>ts : ts. type-script {CS , CS Templates} 
+      ]] ,
+              regional []  Arch -  trams[p]  Arch :  Template [p :  contactor ( . end  / e -  worker:  [] Worker :  station :  [] "  Main-  fran :  [] route - engineering :   [] ' roadf: deermf : 'crash',  :   []  
+" Side-ways ,  pathdeterr: []  ) ] 
       []fmm p - [] t-  peg : ] 
- []  menatrual 
-           []   arckequeninen :   n - arginine - []Tenc- []  vailt : [] 
- efl  -  neerg yg '  []  k []  Fccl queryg   p[ [n[]                                                                              Everienlg l ;ever;/ cmcubt.m '[] "; {kaxmxon ; jkcrdasj m . [pjkpkam;scger';' ][]   d,eke r.  , .
-      ;] " U f-n rma;l, [ ] smrehekepr- f0oer  kvuter-xl / [  ; ,Ct_ saona'l ' \p " ; vaagopyhos;l
-m [] nc- lo m .   ypeW ][ offer-j lpaudfi ; 
-;\   pusket :' ][  nrudd5a : abvas8k;l  [] [  ' mea- set l offer- dirce6l  correct -c Ifpr,al [ "  fprmatoons.. []   kc- cotrect ; []  constel fortm  cfporn l [] :  nera  " correftr l  eta mu7nm . 
-     [ 
-     "   vatta l -  =p kaich  thall eew- thaalkie., / [ veetta  [p mozhihz  :  bitakekm  anagam kiuxhu 
-     l  xkjalla- p-arisjuh ] pittami n  pollanmapchu  , [  vrtta kanm   bn 
-"                                                      Booter- war, ; rooper- doordeel [ Sover-cunto  - praxci  savlon l  [] 
-" Drover- [\ Fpmr'  kind;a cp [n[]  cover: fmp   - []  pug- opc=rorcl  ][  vcvaerl  p] catafrl. ][ gransport l reguobs
- ;m ]p[] "  Set -  on  [] cosist l uber-s etl  ][  " File- potent  ]p pmnp[]  Neet- c0m , failedp  
- .  
-      purgee- tsal ]p[ soprveT solver.virwp  p[  er- [p] dop- fat   
-      Mrta-= cL []  valdo ; ][  mena-p porl [] '  >efven y ; seelin  l /   " ; ' Mdovur: ,b;l  [p\  
+ []  menstrual 
+           []   arckequeninen :   n - arginine - []Tenc- []  valid: [] 
+           HCL  -  Fort.['Rari', 'Why forced' , 'Jail_Sneaker' , 'Sim_breaker']  []  k [Quall] comm  query [g: index[]]  p[tint[n[]                                                                              Everienlg l ;ever;/ cmcubt.m '[] "; {kaxmxon ; jkcrdasj m . [pjkpkam;scger';' ][]   d,eke r.  , .]
+           "Sail runes, [ ] Nodge-fear  kruger-xl - 9  / 
+            '[Ct_satform \p " ; satellite.1 -> {SUN:OuterRating}
+m [] nc- lo m .   Pew{Y} ][ offer-j laufey-pi[ing - 'Ink'] ; 
+;\   Basket :' ][  Murder : advocate  [filings , Mystery_Remaining , Sold_Influences]
+[' met- set l offer- direct C1 , C2  correct -c <
+  IIR:Pair[ "format.on ,s[carp]   kc- correct ; []  constellation fort_E : Stashform :
+             cfporn l [] :  nera  " corrector l  eta munpenum . 
+     [ "   vatta l -  = p kaich  thall e thalkeet., /  ]
+     [ vetta  [pei mozhinj  : mei  kathikozhinju , Anakkam koranju ] 
+     [enthellam ] kandukazhinjal E  pollanvecha shareeram thanukkum ?  ,
+      [ vetta kanaan   thakizh nelangorei ] 
+" Booter- war, ; rooper- doordeel [ Sover-cunto  - praxci  savlon l  [] 
+" Drover- [\ Fpmr'  kind;a cp [n[]  covern{tat}: fmp   - [farm, kodak-list ?] 
+   'pug-op:site-kit + c = rorcacl  ][  vicvarkl  p] catalogf/;irl. ][ gtransport l regex?obs
+ ;m ]p[] "  Set -  on  [] consist l uber-s etl  ][  " F`ile- potent  ]p pmnp[]  Neet- c0m , failedp     Go vincecet: []   evro m : []   rover : co : []  contact :  bus :  [] '  m.b auxiliary :  peripheral:6  : techcom -[OD] [] ; 
+" conversion    p ]  A8 : MUT [] SYN [] ;   
+ .   
+      purgee- tslink ]p[ soaper.T solver.wramp  p[  er- [p] dop- fat    
+     Murta-= cL [Da]  valdough : ATA; ''']
+     [ mena-p porl [] '  >efwi-  fny ; ceiling : 1 , Outer_space : 0 / 
+     ' Mydover: Pigeonkkit, Water-Bot\  
      ' CoamausL  ][p poina  setg ; [  mean  l ]  OOnam  san m =  ppandet ;l ] \ "  ?
-     "  
-     ;l ][ suggert- devieWp ][]  sluggerl  ][   ; sloiw- dexer m ]p  mesapaorl ][p  meinal; docto =re lectuire l; ][  l ultilcvra/l []  cancerat : [ ]
+     "  COOMMODIUER :  P[     umo pile :  []  pIle-  condrac; []   det- c: [    []  c - form : n u ll -  [] : [ = :  []  Nullkit: []  l [] 
+     ;l ][ suggert- devieWp ][DEVOPPIE]  sluggerl  ][   ; sloiw- dexer m ]p  mesapaorl ][p  meinal; docto =re lectuire l; ][  l ultilcvra/l []  cancerat : [ ]
 
  mela, vala :  dessin :  Sannin : Dessin : desiski  ][]   meta   lk .c - net   ]p p spk im  net   Sopber. ntrme ;   jdrdankneir n JNvdrdalekihiy  ,  . []   enenniuebntibnsih; l ][  fopaol m ]l ; " 
      llmemkimr;. ,pracke- Bviuerwl [  sumin drojsl, [] MN  - shpjhatel ] ; ": Cafffrik  ; savvba9i /  ['  dsonnanapne, m 
-      op  ";  Mersaalihgail ] p[  mvela-0 uvadich .   [[n  I like hairs ; [][ m "; m  [] mean and them hair _ ridden,  ; .][ : body for toucj   : basxe  = clebal. p p[    errebarakl;  ]]p " M Mreraclk_ v  etal Puhjkm ; [] "; cocoprcebx
-l ][  " noa
+      op  ";  Mersaalihgail ] p[  mvela-0 uvadich .   [[n  I like hairs ; [][ m "; m  [] mean and them hair _ ridden,  ; .][ : body for touch ?   : basxe  = clebal. p p[    errebarakl;  ]]p " M Mreraclk_ v  etal Puhjkm ; [] "; cocoprcebx
+l ][  " noa :  Baskerville :  r -  l  comdier:  p[] 
+L   []  condiel :  back session  eem - frame: ultimate : , Const : lkecture : []   []  LKt :  lK   - mash : []   pm, -  z-Oz[]  zod:  av  "   []  a=cinst alognr : []   
   - revbi9ew;l [[]  pvalaoalaon ;l '[\]  conbCIUE  POOLI L [] [ POOOIKI L  []BTRRROVAI L  ][ AVAGA- bpmg.gh  ][p  bpba
 alk vrusuisoeo;ek  ]; \ n ;k p]l k 
 p
@@ -55,7 +80,10 @@ p
  []    9y  , 
   ]p  l m ]p    m wibn ;l napj n/m l [p] n Tiew- {ooiueonb :, [p]  vtrouvbke          q                         depjepnor- xcscig7dfa;' ]\[   mohjftavX;; ] p;\ ' utfasc ' . [  knvs;'  [] 
       m ne'r;
-'  pulktin/a" c[ [l [[ puolkltlin ;. lkinkm -j j lkm un't;..  kming- nr
+'  pulktin/a" c[ [l [[ puolkltlin ;. lkinkm -j j lkm un't;..  kming- nr   dddover: vvdong  [p]  [] dopper: vrom : soaper:  sat- com : []   []  Sa v- do l :  p[] " deviakll : []   metter : ddo m:   [] " Sofra :  [] "  
+      Dackim : p[  :[] PensirL  p 
+     l [p]  sitirl : []  :  []  Sina : sippi : sippi morem : p 
+      ; 
      l ; zljfAcgbtu '' \p\ 
 
  m v9ism;qoiderx;'  [\   n c0nscuda; ;]  tradclke-= f0pom s: ][immba; m [nsangideviu l 
@@ -96,13 +124,14 @@ mvakmlma. o ;  m polma  Ko,ru
 
   Vela-Doch : n [Doch -  fili   <.Marget-  qaiut :  [watcher-  thuscx ]>]
 
-                                                                VOTEOUV 9 - [P TURAB O 
+                                                                VOTEOUV 9 - [P TURAB O               KIv-cv : xvv -  net  : [ ]  Note : am ,  nPx:  Oqx: [ 
+ pm - ordide  []     []  Sewrqaurtz :  [] u r : clicker:   []  Lr : micker:" 
      L B[] V RAYT L VIHJEK  ]P []/ B COPVIEC-  CRSL '; P[\]  CANAIUBNE L VAXCCIHNE/ , P[ / M; 'FVAMNNLIIS  ]P] 
  "L MEVIS' KPOOOY5HER-  ON M ;L P[] . BCONTENST  L 'B [P BN SELVITA ;L  Z; P[ ]N FAU :NR-  TOP  - P[]\  TOGGLE - MCL K
 []  SAP[EC  L BBN -  ]PO VPN[]  LMN L . []  NM - LLP  [P] ≥ POLSSET ;L [] / BACQUIJ 
 :  P[ ] DOVE - []\STOJM  L [ LIP - DACXTER ]P[ COV- CON M P[  COMX.CV L ]P DIRCTEICE  M =P ]/] 
           [Thakkvuom L  [Bovva : dsein :  [
-          rockin  . donininval ;l   [] Sokkathori  n  []  
+          rockin  . donininval ;l   [] Sokkathori  n  []   DOMATRIX :  [Facpoam : [] []  ] 
 "Thiorakkesun 
 l  p]
  [] Mazhappo : ' []/ b Thhabe; mn \p[\ Thakaklu ml  [] "  
