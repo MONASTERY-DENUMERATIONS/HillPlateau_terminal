@@ -184,7 +184,17 @@ darshe ;' []  darshit - lace :  [] ada - loveform , VOTEOUV 9 - [P TURAB O      
 []  SAP[EC  L BBN -  ]PO VPN[]  LMN L . []  NM - LLP  [P] ≥ POLSSET ;L [] / BACQUIJ 
 :  P[ ] DOVE - []\STOJM  L [ LIP - DACXTER ]P[ COV- CON M P[  COMX.CV L ]P DIRCTEICE  M =P ]/] 
           [Thakkvuom L  [Bovva : dsein :  [
-          rockin  . donininval ;l   [] Sokkathori  n  []   DOMATRIX :  [Facpoam : [] []  ] 
+          rockin  . donininval ;l   [] Sokkathori  n  []   DOMATRIX :  [Facpoam : [] []  ]  krogg: []  B :  vrom  :  p[[]  seller: []  set _ ru m :  p  suffix:  [] : 
+ patinece : strastsruop aent , overheadinng : [ Minus - info "  +  correctivers:  p[]   Router FARM : , SET- ALL []   NONE- INFO : []\ NAONYNMOUS : N []  DETACH : [] 
+ Ns :  n call 8 : p[] Nbt _0 am  P;[] bt hz [ ] " []   < Lc : 1 Knot kletter:R[]   Kalcc-c: []  statrts  []  Call { ] '  "Nxc- parmwr: ] 
+               ' ]p[]  Oarmer":  . x tives:  [ ] Druver:  k : [] K - meNS:  U 0 BERL  XL ;'> TRILOGIES: [ 
+                 BIG- PHAR M :" [
+                [] 
+                 MENS '  BEAR  : LOC : CAIR O -=  ACTIONS:  MENTION : EGTYPT : []  MENTION ;' GAZA: [] children :" cryimg over: droines and planes.  [the fascists remeber death to be  : 
+           MY strongedc   then [reborn as not favourable the generartuions that caME TO Speak of unspeakble are the true elements that cater the viscal mor e- inferations  in : {  
+ Stoicjking ro m L [ : []  rom -  c:  l - car:   sem -  opartirte : , Od: infoi : [] 
+       nfo " pair: []   ]] 
+                 ]
 "Thiorakkesun 
 l  p]
  [] Mazhappo : ' []/ b Thhabe; mn \p[\ Thakaklu ml  [] "  
@@ -213,7 +223,9 @@ k [p Kodama'n \ o              Dakshi   ; cam vort v; m ][\ soap -  8 ; svc : []
  ;  [ ] dheiripei : [ \  rthonam keer; [ ]  kadamgyu l  : []   Duajei >  ? 
    em o  -j []  nmprox  j i  p]  
 "  saavei  - tk  []/  suc;kdr
-  []  fdicxker -  p] woekr l  ][p]   
+  []  fdicxker -  p] woekr l  ][p]     j k :   l ogin : []   : vest :  es- water: []  acid:  []   ?  [] If poured:  whedre menetiones: [] 
+ case:  injury  : 
+           measure   burn intensity  : [] ' Free care : heaLTH :  FARE
  
 " ' wiokeu pj  - tin;amn [] tee- yem/  l PkjJ. [=\ ;  " k'[] ]
     ]
