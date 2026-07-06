@@ -32,9 +32,8 @@ Serious STRING = 'SURIVIVAL RATES' , 'ATOMIC-RATE' , 'ATOMIC_CLOCK' , 'RATE_TATE
 [-;print-column :  threaf-centre : [Off-road, computer: [Base-sectoring, ring-for : market -[Dumed :[
 Agency :  posterity :  [
 POikarm - [
-Pop -[tap -[UUid-Intax
-]]]]
-]]]]]
+Pop -[tap -[UUid-Intax]]]]]]]]]
+Const () : [<.Kb - template : Projects.Outsource(Load_form.existence {'Meaning' , 'Fared'})]
 
 
 .tap-build
