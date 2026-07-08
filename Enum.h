@@ -3,14 +3,14 @@ Code Statistics : {
 
      CAPITALIZED : PRINTED-BUY, company
      DYNAMIC: Boston-[core,fred]  : manual{Usb : [
-        recorded: corded :  attics
+     Recorded: corded :  attics
      ]}
- massed:  j {Ferguson - tampered: matics : <Fnxs - snx - printia : [
-        Ret-column : rit - > vv  - [
+Amassed:  j {Ferguson - tampered: matics : <Fnxs - snx - printed >  : [
+Retina-column : rit - > vv  - [
 Ovdex:,OV-pool{Driver,Drawer,Me->  Include-[suspected  - [fz-  exchanges]]}Fract-om : polio -  ui -  [
 I.chrome()
 ]
-Dermatoid : Julia : facing ->  Alias.simple-made: [
+Dermatoid : Julia : facing ->  Alias.simple-made: [ [BARRIER_MADE , FACTS_RESOLUTION , NAME_DIVERSION , EXEMPLIFIED_MEANINGS , SECTIONS_INFO]
   Luthian Vulkan  Arquien : [Forbia , [Arsenci : Karvensci : Barclays :  ClaySand :  lithographer :  square: printer :  glass-cube]],||
                             MASS_form : [Brush, Streak-form :  <former-stage, Outer-stream,Inner-Rave,RAVER_DOOM>] |
                             Lithoplane [||] : <Cuvetrix : <Cutter [Net-loader : Boot-sync(Pi:Reload:Ai) - > C.F -> Concurrent.rational(
@@ -20,18 +20,21 @@ Dermatoid : Julia : facing ->  Alias.simple-made: [
                             )]>>
 ]
         ]Verensy - [Subfuoa- [Foutain' : can-cun , remeMber :  Trx-  [cv: 
-XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CASULATY' ,'ASTROPHIBIC' ,'GAVE-O-HABIT': 'Calvin_prices'
+XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CASUALTY' ,'ASTROPHOBIC' ,'GAVE-O-HABIT': 'Calvin_prices'
+       MAIN.route(fillers) => Pros.markers[NP : <State> , <0-0-0-0> , [<State_Regional>]] , 
+       GN.[Form[U8].TRANSFORMERS[QR[H8].Static()]Axelometer] <Engine.io>[Cli-format, io to c]
+       Parse.frames(Legitimate)[Frames.keep -> Actors.play()]
          ]]]]
  ]>}
 Meta-end: [She not a vegetable after all , A living bionic one formed out OF skeleton.]
-Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> FRIMA-PAIN, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ei?}}]
+Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ei?}}]
 ]]VALLEYS]
          ZILKAN    ]]
 ]]]VEIKAN]
 +-{FANUM, #stage_position : attain, spreaders() : [MEETUP|LEAVE] : [ARRIVING|DESTINATION ? ]}
 
 
-desk-bod :[Cav-c.s :-> space - ,  S- stars :  drs -[..count(daughter 1, daughter 2 . . . . )
+Desk-body :[Cav-c.s :-> space - ,  S- stars :  drs -[..count(daughter 1, daughter 2 . . . . )
          [Menu_pause : relations_Rewritten : Forensic(.investigation/load)],
          [Content_pause : Initial[Mut[u8] Buffer]Live_c : C_CHAT],
          [Sort-heap : Main-review , Preview-Driven -> [Saved_stats, Saved_arrivals()]]
@@ -52,6 +55,7 @@ BT_Tucker-Soft.Inc("Best",'i','duality :  met her, in triumphing retrospaces', '
 craver-crank ,  juice-c:  X-kitty : kitty-formal :  {}axc - v.com :  l-log.olmia{ia-strom. strom[ac, ac- [kc, cd- Braker()]]}
 [Break_storm : Born_Silverstar ? recorporated|mass_incorporated ? |Docker_Categorized, Stark-v, H-foundation ,  basic-A [,key_stratfolds]]
 [Eigen_hover : Break_dimension [4D  in way , main_stream.inmate()]]
+[Eigen_count : Vector<Matrix> : Count_way : <Entry : Library>]
 [Count Session : Session_Long : Buzz_Break : Counter_legislation] - > Bit.registry{
 
 
