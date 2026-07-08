@@ -122,6 +122,7 @@ stove_dump(chem.x : Bent.o [B : Ox , mov[rad + ] [Rad v : [B => change]]])futile
     XXV-conrad  [prodK : V-selections()   {
               
                           Main-string :  route [Chord , ffmpeg[Change:carnival:Bistro]] 
+                          Side-kite : kite.column() /-upkite[fly:soar:high]
 
   
 
@@ -141,10 +142,12 @@ Routercom![Filler.jc :  js {Rort : practx:  Sm [carpets : [
  ] ]>
 
 ] ]}]
-  playset: INITIAL ; scale-e set : T- [ tri-formal arch] 
+  playset: INITIAL ; scale-e set : T- [ tri-formal arch] {
  
-     l ; zljfAcgbtu '' \p\ zfspughger:  spugger: c;c: []   []  metsoermV [] rordach : env- cump  []\ Dump  - e : file : set- olcon ; Dodder ; didge ; [] 
-
+      Ground => 0 ,  Height => 1  , Dimension => [multiple[.]locks]  
+      metal_bound [door_dash] : : env-dump[.early_arrival(Sequence , determinant[o,i])]\
+       Dump  ->  e : file : set -> con ; Dodger.reviews(uncommon) 
+           }
  m v9ism;qoiderx;'  [\   n c0nscuda; ;]  tradclke-= f0pom s: ][immba; m [nsangideviu l 
      [ ]  ";  mardiual  [[] thovveit kuhnl;, ;][ nknaknka- knajval' , ][  [ ]calaon '; ][p  miomla-kKmper,shnuij   [ veka l klazjhiung.  m otia koloich  ikaalerl thevanj  ;l  '  m  [p [k ";mukla- neietGl, [ "  nvenkabl nadinjna,  ": 
      " vellam/  palskozhoam , ][ lerla- n ilam ; [ venmeiolk, Mkamlom p[]  malazha;. nrnajlan; [ ]/ m  [ 
@@ -252,7 +255,7 @@ k [p Kodama'n \ o              Dakshi   ; cam vort v; m ][\ soap -  8 ; svc : []
 "  saavei  - tk  []/  suc;kdr
   []  fdicxker -  p] woekr l  ][p]     j k :   l ogin : []   : vest :  es- water: []  acid:  []   ?  [] If poured:  whedre menetiones: [] 
  case:  injury  : 
-           measure   burn intensity  : [] ' Free care : heaLTH :  FARE
+           measure   burn intensity  : [] ' Free care : health :  FARE
  
 " ' wiokeu pj  - tin;amn [] tee- yem/  l PkjJ. [=\ ;  " k'[] ]
     ]
