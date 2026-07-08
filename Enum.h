@@ -62,7 +62,7 @@ craver-crank ,  juice-c:  X-kitty : kitty-formal :  {}axc - v.com :  l-log.olmia
 
                 IP.onload(open.session['Info_chats' , 'Projects_Saved' , 'Saved_Session']);
                 Re-release : open.set(telemetry.[Session.load(c.buffer)])
-                open_code : Set.release{affirim.telemetry , telemetry.load()}
+                open_code : Set.release{affirm.telemetry , telemetry.load()}
                 
  
 
