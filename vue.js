@@ -36,5 +36,8 @@ Portal(Limerence : Z[code, C-form : Form(pac-x : eaten by [Whale, [Consumed, Dea
 Provide DAC]DE]ADDICTION)CENTRE]Free) :- Weining: <Swiss-based> : [Fornicated_Withdrawal, Complete_Withdrawal] -> Illegal
 
 "Doctor"|"Nurse"|"DEA" - > Putting captured @risk
-
-
+           When sectioned : 'Need of surgical risk ' - > Risk by section calculated,
+           Anasthetic Proof : 'Alive' , 'After' -[Ego : risk ,Denial(Death) , donotaccompany REAL , EASIEST WAY TO LOSE MEMORY OF HAPPENING]
+Auto-section : load_a{Correct [Fx , Fam] [M:ZOD:Reply()] :[Arg : format {In ? [D ? ] [Section-  call , Narcotic(Containtment)]}] }
+If section , load(bio)[Me : calculations(STREET , Manufacture , 0) : Max['Available items in store ? ']Options +]
+Count to count 10 : {Exist , load(Permissions) , [Gather-select] , ['Alternatives'] (Weining : Started) [Main : Vue(Spring) wait]}
