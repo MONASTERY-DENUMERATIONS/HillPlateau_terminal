@@ -136,7 +136,7 @@ stove_dump(chem.x : Bent.o [B : Ox , mov[rad + ] [Rad v : [B => change]]])futile
     }] 
 
 [Lb , R b , bot(S : pair: [Kire - c: Loverdorm : [{Saddle-points : // [Prod-state:action-fate ,  [] 
- prompt : call , Set -  direct : [~Route access ,  delay persona : [concatenates, artworks: [
+ prompt : call , Set -  direct : [~Route access ,  delay persona(cancel : stored , [spoken everyday in private , Not by:  'inspection-security']) : [concatenates, artworks: [
     route , zem :  [byproduct ,  [Surveillance [Multiple-[Radexed[1 : BT[s, sorting(face)]]]]]]phase[street:art:traffics{
 
 
