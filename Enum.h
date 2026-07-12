@@ -19,13 +19,14 @@ Dermatoid : Julia : facing ->  Alias.simple-made: [ [BARRIER_MADE , FACTS_RESOLU
      
                             )]>>
 ]
-        ]Verensy - [Subfuoa- [Foutain' : can-cun , remeMber :  Trx-  [cv: 
+        ]Verency - [Subfuao- [Foutain' : can-cun , remember :  Trx-  [cv: 
 XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CASUALTY' ,'ASTROPHOBIC' ,'GAVE-O-HABIT': 'Calvin_prices'
        MAIN.route(fillers) => Pros.markers[NP : <State> , <0-0-0-0> , [<State_Regional>]] , 
        GN.[Form[U8].TRANSFORMERS[QR[H8].Static()]Axelometer] <Engine.io>[Cli-format, io to c]
        Parse.frames(Legitimate)[Frames.keep -> Actors.play()]
          ]]]]
  ]>}
+ARD_CODE: arch_64x()  | [M8sm , sm-world{Avx : Jquery()}] -> Animo [,osllam -[llamaPL] : (Arguing(Name) , Stating(Name) [Dec:config , A-character()])]
 Meta-end: [She not a vegetable after all , A living bionic one formed out OF skeleton.]
 Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ei?}}]
 ]]VALLEYS]
@@ -62,10 +63,15 @@ craver-crank ,  juice-c:  X-kitty : kitty-formal :  {}axc - v.com :  l-log.olmia
 
                 IP.onload(open.session['Info_chats' , 'Projects_Saved' , 'Saved_Session']);
                 Re-release : open.set(telemetry.[Session.load(c.buffer)])
-                open_code : Set.release{affirm.telemetry , telemetry.load()}
-                
+                open_code : Set.release{affirm.telemetry , telemetry.load()}                
  
+Main-[Route , Sentinel_gate : [<ovdex : [Transform -> Pia{A : AP ,  I - form(.office(format)Ividex)Ivcolumn}Synthetic]Connectioms]Dendrites]Mixture
 
-
-
+Arc() : Code #Mfile : Route: [g ,  edits : [Framable,  [CC : , sub-board : Director -[Drawer() ,  Writer : [painter]]]]
+Session.ip['klog' , 'Office-after' , 'When_pay' ? , Abby [inforemed by R , When Abby  mained the void() : [the kernel coined the term that should be 
+     paleontologied[Major : archaelogy(Fable : <Format> [Hop : groups , Mobility() Sessions]
+     [Counter-Frames : H[Format.column(S , Trivia [3]  : Iq[Sense(E-person) , Affordability = 'Combat' ,  Call = ratchet ]Stubble@Bladeends)]]
+     )]
+     
+     ]]]
 }
