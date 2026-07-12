@@ -25,7 +25,10 @@ exit entry : {
     H-state : Background(Story)=> [Major changes  in ruleset , Main-set -> Manifesto-[Explain.via(sentry)]]
   ]}
 
-  H-gram : <Regional> , [Exposjure ,  Conduct] : [Lessons() : Legions() : NameError() , Name_Travels()] = > [
+  ROUTING_SET(Ctrl M) :[Mset , arrival() , [Attended , Backed() , Server-relations , Distributed_data_sections , Arrearfolds , min(ton)]]
+  
+
+  H-gram : <Regional> , [Exposure ,  Conduct] : [Lessons() : Legions() : NameError() , Name_Travels()] = > [
 
     Arrived_Seq_column {Base , env.prod[J:Sections]}
     Oin'ments' -> Creameries , [Heal , Load(scale,egg,mind)]
