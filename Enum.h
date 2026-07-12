@@ -26,7 +26,7 @@ XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CA
        Parse.frames(Legitimate)[Frames.keep -> Actors.play()]
          ]]]]
  ]>}
-ARD_CODE: arch_64x()  | [M8sm , sm-world{Avx : Jquery()}] -> Animo [,osllam -[llamaPL] : (Arguing(Name) , Stating(Name) [Dec:config , A-character()])]
+ARD_CODE: arch_64x()  | [M8sm , sm-world{Avx : Jquery()}] -> Animo [,osllama-[illamaPL] : (Arguing(Name) , Stating(Name) [Dec:config , A-character()])]
 Meta-end: [She not a vegetable after all , A living bionic one formed out OF skeleton.]
 Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ei?}}]
 ]]VALLEYS]
