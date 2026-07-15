@@ -68,7 +68,7 @@ craver-crank ,  juice-c:  X-kitty : kitty-formal :  {}axc - v.com :  l-log.olmia
 Main-[Route , Sentinel_gate : [<ovdex : [Transform -> Pia{A : AP ,  I - form(.office(format)Ividex)Ivcolumn}Synthetic]Connectioms]Dendrites]Mixture
 
 Arc() : Code #Mfile : Route: [g ,  edits : [Framable,  [CC : , sub-board : Director -[Drawer() ,  Writer : [painter]]]]
-Session.ip['klog' , 'Office-after' , 'When_pay' ? , Abby [inforemed by R , When Abby  mained the void() : [the kernel coined the term that should be 
+Session.ip['klog' , 'Office-after' , 'When_pay' ? , Abby [informed by R , When Abby  mained the void() : [the kernel coined the term that should be 
      paleontologied[Major : archaelogy(Fable : <Format> [Hop : groups , Mobility() Sessions]
      [Counter-Frames : H[Format.column(S , Trivia [3]  : Iq[Sense(E-person) , Affordability = 'Combat' ,  Call = ratchet ]Stubble@Bladeends)]]
      )]
