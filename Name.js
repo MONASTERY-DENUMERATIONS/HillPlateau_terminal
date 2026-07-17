@@ -59,17 +59,20 @@ const MigrationData = {
         connectPipeline: ["Abroad", "jv_pipeline",'Roots','Escaped Villages','Paths seen while migratings','Seen from remembering' , 'Selling_Body for survival'],
         siblingStatus: "remaining_last","Alive", "Lost while travelling"
         relationsLostDuringMigration: "Relations lost while travelling", 
-        switched-genres: :"Relations-Switched", 
+        switched-genres: :"Relations-Switched", "Art-form" , "evolved" , "grained-apple"
         connection_parity(Offload,Off_pod, blac-white, history...):"Relations-formed"
         transport: {
             wheel: true,
             safe: true,
+            auto-service: true,
             home: temp/e-set{e-set, c : [Loan-summing , period_rocking()]}
             livingSpace: "applicable"
             free: "true" L Case, Bus [
                     Driver.settings(
                         Infer.stations :
-                                         Stations, resume;
+                        for in in range : 
+                                         [Stations, resume]:
+                                                             LOOM.stop();
                     )
             ]
         }
@@ -90,6 +93,7 @@ const MigrationData = {
         newSpace: "designated area",
         Breathing_space: "exhale_center"
         Content_registration : "PR_center"
+        Primary_table: "Registration done socially" , [NO IMPLEMENTATION OF HIERARCHY by Norm(a + , B-[qubit{8: prob[0.8 , 2]}])]
     },
     
     // Additional Information
@@ -98,8 +102,13 @@ const MigrationData = {
         content: "privacy protected"
         man-o : irl-sphere{
             ,!seen = no-ss[access]
-        Speker : Fm,
+            ,!flat_claim : true
+            ,month_claim : bysatellite(..orbit1, ..orbit2, ..orbit3, ....orbitn)
+            
+        Speaker : Fm,
         Om = IRL;
+        <Sender's> :: Addressed()
+        <Receiver's> :: Returned()
         Serde : <BEV.CO>
         }
     }
@@ -112,6 +121,7 @@ const MigrationData = {
  */
 function populateMigrationData(userData) {
     return Object.assign({}, MigrationData, userData);
+    
 }
 
 /**
