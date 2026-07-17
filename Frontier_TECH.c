@@ -2,7 +2,7 @@ import os
 offer parags: 
      Sem-potent 
        Arcquivinile, 
-Sargema , ROM  : ROM :  cp ?                                              OSrave L'; [] Jhavled [j-join/mp] 
+Sargema , ROM  : ROM :  cp ? OSrave L'; [] Jhavled [j-join/mp] 
      ' uvcon m' [] memset,vnc Pivy  ban l ,m Potterm []p true_main , ]Ip counterfeit-n Sql  ][  welcome call , [] cater-c  l  ]'  r- brac {} nm - silvia l  [] '  p portl  p[]  your-sum , derivativel []  limit0 [] " 
      : Sorter.(AP-Files) , porcelain<meta.c[W[omen dusk by prayer]]>:  mother, Sita-sail:on , daksum -0 fil[a : Beach Terminal ]                 
      Waiter-Side <concat.metal Brick : <offer.c> 
@@ -39,7 +39,7 @@ Digitalize_bandwidth : <Live.stream('Saving Session')>
            HCL  -  Fort.['Rari', 'Why forced' , 'Jail_Sneaker' , 'Sim_breaker']  []  k [Quall] comm  query [g: index[]]  p[tint[n[]                                                                              Everienlg l ;ever;/ cmcubt.m '[] "; {kaxmxon ; jkcrdasj m . [pjkpkam;scger';' ][]   d,eke r.  , .]
            "Sail runes, [ ] Nodge-fear  kruger-xl - 9  / 
             '[Ct_satform \p " ; satellite.1 -> {SUN:OuterRating}
-m [] ncb-loom .-Threadery{X}: Pewer{Y} ]
+m [] ncb-loom .-Threadery{X}: Pewer{Y, Yaw(pi)} ]
 -> Coatery['INK'][pottery-mist laufey-pi[ing - 'Ink'];
 \
 
@@ -54,7 +54,7 @@ offer- direct C1 , C2  correct -c <
      [enthellam ] kandukazhinjal E  pollanvecha shareeram thanukkum ?  ,
      [ vettam kanuvaan  thalakeezhu nelamkorei ? /Kolavettam/Nenjil_tharanjoru/Aanju_puka/Valich_Kandu] 
 " Booter- war, ; rooper- doordeel [ Sover-cunto  - praxci  savlon l  [] 
-" Drover- [\ Fpmr'  kind;a cp [n[]  covern{tat}: fmp   - [farm, kodak-list ?] 
+" Drover- [\ Fpmr'  kind;a cp [n[]  covered{tat}: fmp   - [farm, kodak-list ?] 
    'pug-op:site-kit + c = rorcacl  ][  vicvarkl  p] catalog:f/;irl. ][ gtransport l regex?jobs
  [m => O()]p[m] " Set -  on  [] consist l uber-set-[L:S, Left-parking , Right_Boarding : [
 
@@ -202,11 +202,12 @@ Sorter.RG: LS  ls  : list[jump : Truncation() , Neccesaary ? [Via bio]]me-casual
          case : when numbers are npmed :- ipm[,m-set, security , fake , urgent_relations ()..Frost , ..[District , Trost , Turn - U ?]];                                       rocker-file
      [ Msecrets.{$.list()}]  "true natural , real_hub , center ->  core ?  cal1 l[E-(i)]. Unknown(Back , End);  
      [continue : District , concert => play() , excerpts = read()]
-     [Grokker_ban : Ai-[Flags , Red_preview ()  : [Red-sentinesl ,  space , target {main = description of child and small proportions ? ['Medieval' ,'Goatway' , 'Child_predator' , {Lurking_visuals similar to CP}]
+     [Grokker_ban : Ai-[Flags , Red_preview ()  : [Red-sentinels ,  space , target {main = description of child and small proportions ? ['Medieval' ,'Goatway' , 'Child_predator' , {Lurking_visuals similar to CP}]
          
          continue : badge : case {Router  to  sesh [Detective(PR : Agent,  call , [Child_vocal : Information of description])]}
          Vern-set[DMCA / A / C => (MNIST_protocol : col : row , [Justice , from local , case-file : Pen-information()])]
          }]]]
+
     Ai.ban-mfiends/                                      
      speeder:[xxx-archive[inblow(regional_contexts : <Chemical_pod > : [Main_os.import['DOS']])]] 
       if lm pioneer.{bycam()} : [place, product , Agents(..last-visited , Symptoms_checked , Aged_agents() : <Route-check ,  map>)]
@@ -243,10 +244,10 @@ News.Record[magnetic.links] [Razor-TOR : R-play() [Detect(Abuse)]]
 
 Menrack [c.io.ver-- : Flashed ? , Donot suspect until guilty ? ,  
 [pos , dos ] : ['garbage' if unused , 'CD-scratch()'],
-kediyekkan m: []       My gov   Og : farm /   ;  [ ] fire  - dictated; over ; dryed up  seeds: []
-dryed: 'garbages;    ; Caled It justice to action > ['Still lacking CS . [Common-sense]'] .    "?  when will these sover cunts will make something useful'
-Metti Kanam :  []]
-Vela-Dolće : n[Doche-philia<.Marget-  qaiut :  [watcher-  thuscx ]>]
+kediyekkan m: []       My gov   Og : farm /   ;  [ ] fire  - dictated:over =>  dryed_up_seeds: []
+dryed: 'garbages;    ; Caled It justice to action > ['Still lacking CS . [Common-sense]'] "?  when will these sover cunts will make something useful'
+Metti Kanam :  [],
+"Vela-Dolće : n[Doche-philia<.Marget-qaiut :  [watcher-  thuscx ]>]"
                                              
                                               Ruther-Doc ; Electron : [(°.)][protec.[dot.on/env-> path.reaserch(glass, light , private())]]
 View_it =>   darshan() - laced[Fen ? Context[Plugin.[retest]]] :
@@ -282,22 +283,16 @@ L B[.pond()] V[STAGE] LA LAND]P [LA.stream()] / B.copyvec()
        (i)nfo " pair: [[..orphan_running]]   [[..orphan_settled]] [[..orphaned school : If any ? ]] [[..previous_encounters]] [[catch_culprits]] [[RAMZEY™]]
 => Thoraxic 
 l  p]
- [] Mazhappo : ' []/ b Thhabe; mn \p[\ Thakaklu ml  [] "  
-   PiIlsoyafj  [] vrorpm' b[]  ve-  [ ]  caal nc
- = n []  []  bMile- ,cXl  [op [] Oxl  b [p  lp =- paravis l [\  Merkkaa 0- dfk9ien l /m [] , roko nbom  p[]  
-" Meva  tholl = []/  tnoalk ameerb :  [  mreeazha , poriu  koxhi kaar  ,m  ]p ]
-
-
-            Theyekku m  theyamv8u  thambu ; vazhapoam  [
-'
-    Veta ayak yoppam   [  thokamioxhi m [                                                                      ææææ
-]               MoaHi';ux  p [nthala  [ thalanakmc l p[[]    Marghaxhi [] thanavu  :  [  thallekumel kumbilin  | | [ 
-' thala- Konjam   [] nMonjakk u  - thal theeri  ; ][  venda kku - mela  i  =  pozh ch   []  vettiilkan ?  [] / Thaalam  L  []  - [] os.e-  []  thangal ;  ]p [Upper_card [BP,{cert}.{certify(L)}];   [] 
-
-'j k :[] animoused()][Carousal]  
-' use- ar =  srte  [] gapp s-s ron; l   ][  ASm 0 []  mtoberleroie;  [  Ovrc : ][ nrc; aer-c codE. [  f- vpb   ; ][/  C- cpommb  ]p   / f- call   p [n p[] k ": jO-nek  p Ma[  = riceml  [ ]]
-" Manathandu  l p[\   vella anbto iu    p  anabv u  
-  thayy   l   [p o Argigeb   9  l K bwhyv sdress0 senssing settings  L json  d- do L [ [np = macx  [],  Nsorter() , 8-r l  l t L [ " nt fs lk [] m .m *  ; ][ -s cpk .  [ pm l 
+Sheltering_modes : {Urban , Rural ,City ,Town-wise , Locality-wise}
+   Pillsof(I)[] , .dotenv(pi)
+      Rationalise : Newlist {
+      Set-begin : Begin-Accord(Selections) , [Gate-sessions] [Format_Interview] [Stress_testing ?] 
+      }
+Svm.record{Set-net , neural : [Branch:State ,Node-network: chain.{$ : ? } => branch.overload(clear[overhead, [Sonneting()]])]}
+j k :[],
+animoused():[Carousal] 
+Sense(Settings(json, cli , do -li))
+Nsorter()=> 8Rc , Panel , [r to n][e to a] [b to c] [s 2 b] [b 2 c] [c 2 sass]
      [;"  Lit- farret  [k  [] cobar nays [] b v - sxoretgeR [ l [] Curvette  [] tRavcme ; [p] nsipem
      rl  actor Rr= Int ]p YPYraem. [][p btr - ck m -[]  com l diam [ p acquiveS ]p[ spgrteclk radck [/  si p ' ]p convaturel  [p Poll-  ley r km [ sortecm tramm lm ]p teram m ;]volums ]p[ Minopsye
 k [p Kodama'n \ o              Dakshi   ; cam vert v[version - k]m ]
