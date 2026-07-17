@@ -14,11 +14,15 @@ Control_c: [p:panel, od-set[odm : key , vite.j.config(fig_pond: crash_letter)
     RTL, type{infer -> base_registry{
              Try_M.locale();
              Base_form : r.registry(..files,..src)
-  
+               
     }}
-   
+
+  Hypothesis : [Record , Giving , Theory , Enabled()]
+  [Practical : - records {Hypothynate , Insect[Bugged , Removal() , Constant_Intergration [curve,S] ]}]
+  track:0[Zozo, restring , Ro-Filter], Uv/ path -> jv{access.i ? [Form.predict()]}
+   []
   Content,spec: <Frame_reference , PR_reference{guage_guide, Game_slide}>
-  Content_Form : <BSLR, DBSV,  SV_DACT_com ,  SATA_deck>
+  Content_Form : <DSLR, NCB,  SVG.com ,  SATA_deck>
   Control_Fm : ['free_radio']  
   
   ]]
