@@ -24,13 +24,14 @@ XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CA
        MAIN.route(fillers) => Pros.markers[NP : <State> , <0-0-0-0> , [<State_Regional>]] , 
        GN.[Form[U8].TRANSFORMERS[QR[H8].Static()]Axelometer] <Engine.io>[Cli-format, io to c]
        Parse.frames(Legitimate)[Frames.keep -> Actors.play()]
+       Lithoplane : Gate_city{Vortex(Sort.clone) PID = 'duplicate'} -GENX-GENESIS : SYS : [STIM : <Acquirer:dat/Form-dat>]
          ]]]]
  ]>}
 ARD_CODE: arch_64x()  | [M8sm , sm-world{Avx : Jquery()}] -> Animo [,osllama-[illamaPL] : (Arguing(Name) , Stating(Name) [Dec:config , A-character()])]
 Meta-end: [She not a vegetable after all , A living bionic one formed out OF skeleton.]
 Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ei?}}]
 ]]VALLEYS]
-         ZILKAN    ]]
+         ZILKAN    ]]        => [Master-branch : Vulkan {Db.ionize/Assets : Loading(Frame:dep , Object#id)}]
 ]]]VEIKAN]
 +-{FANUM, #stage_position : attain, spreaders() : [MEETUP|LEAVE] : [ARRIVING|DESTINATION ? ]}
 
@@ -41,10 +42,11 @@ Desk-body :[Cav-c.s :-> space - ,  S- stars :  drs -[..count(daughter 1, daughte
          [Sort-heap : Main-review , Preview-Driven -> [Saved_stats, Saved_arrivals()]]
          [Menu.pod : pod_[strata, matrix{$ : 'Main-hold'}]]
          [Chain-selection : <Dependency : S.holds[F, driven [AG]column(i)]>]
+         [Chain_break : <Calculate[esc: via(Prod: state, actions = 'immoral')]>]
 ] 
 
-     pop-setter , track-commoid : roid{commodity ,  Roasted , Feedpalm -> Menus -[Jumeirra-branch()]}
-     [Node_clang : B_Client : SAAS:VB, Connect-DR, DC] AC-2[#way, doorpass]
+     pop-setter , track-commoid : roid{commodity ,  Roasted , Feedpalm -> Menus -[Jumeirra_branch()]}
+     [Node_clang : B_Client : SAAS:VB, Connect-DR, DC] AC-2[#way, doorpass][AC , waypass = 'Door_bench()' , Hold_cord : pass]
 ]SUN_VISIBLE{LITE:BALANCE}
 
 CE- > Electric
@@ -53,10 +55,10 @@ BT_Tucker-Soft.Inc("Best",'i','duality :  met her, in triumphing retrospaces', '
 :[TERENSIC, TOKIO , Drift_ac , drift-velocity ,  Knowledge_Allocation]
 
 
-craver-crank ,  juice-c:  X-kitty : kitty-formal :  {}axc - v.com :  l-log.olmia{ia-strom. strom[ac, ac- [kc, cd- Braker()]]}
-[Break_storm : Born_Silverstar ? recorporated|mass_incorporated ? |Docker_Categorized, Stark-v, H-foundation ,  basic-A [,key_stratfolds]]
-[Eigen_hover : Break_dimension [4D  in way , main_stream.inmate()]]
-[Eigen_count : Vector<Matrix> : Count_way : <Entry : Library>]
+craver-crank ,  juice-c:  X-kitty : kitty-formal :  {FX11}axc - v.com :  l-log.login{io-storm. strom[ac, ac- [kc, cd- Braker(CI/python)]]}
+[Break_storm : Born_Silverstar ? recorporated|mass_incorporated ? |Docker_Categorized, Stark-v, H-foundation ,  basic-A [,key_stratfolds]][Scaffolding : Dimensions{TOP|BOTTOM|DEPTH|}]
+[Eigen_hover : Break_dimension [4D  in way , main_stream.inmate()]][XD : time : <Iq.self('String'/buf/n)>]
+[Eigen_count : Vector<Matrix> : Count_way : <Entry : Library>][{$:matrix.chain('Enterprises' , filled , retained , no return ?)}]
 [Count Session : Session_Long : Buzz_Break : Counter_legislation] - > Bit.registry{
 
 
@@ -70,8 +72,4 @@ Main-[Route , Sentinel_gate : [<ovdex : [Transform -> Pia{A : AP ,  I - form(.of
 Arc() : Code #Mfile : Route: [g ,  edits : [Framable,  [CC : , sub-board : Director -[Drawer() ,  Writer : [painter]]]]
 Session.ip['klog' , 'Office-after' , 'When_pay' ? , Abby [informed by R , When Abby  mained the void() : [the kernel coined the term that should be 
      paleontologied[Major : archaelogy(Fable : <Format> [Hop : groups , Mobility() Sessions]
-     [Counter-Frames : H[Format.column(S , Trivia [3]  : Iq[Sense(E-person) , Affordability = 'Combat' ,  Call = ratchet ]Stubble@Bladeends)]]
-     )]
-     
-     ]]]
-}
+     [Counter-Frames : H[Format.column(S , Trivia [3]  : Iq[Sense(E-person) , Affordability = 'Combat' ,  Call = ratchet ]Stubble@Bladeends)]])]]]]}
