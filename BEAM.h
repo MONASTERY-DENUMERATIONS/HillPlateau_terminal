@@ -23,5 +23,35 @@ print("*")
  |\\\ \\ \______________\\\ \ \ \\ \  \ \\ \  \--------|///  / / / / / // / // / / ----------------------------|',////
  ~~~~~~~~/ \ \\ \\\ \__\ \ \\ \101100100101\\\ \ \\C  | | \ \ \\ \ \\\\ \\\\||||||\||||||||||||||||||||||||||||________..
                       |\ \\\__\\ \ \||||||||| |||||||||||\\\\\\\|||||||||||||||||\ \\\\\\\\|\\\\\\|||||||||||||||||\\\\\|
-                                \__|||||| | | | | | | | | | | | | | | | | | \\ \ \||||||||||| | | | | | || |||| | | || |__˘ 
-                                   \______________________________________________________________________________________\                   
+                                \__|||||| | | | | | | | | | | | | | | | | | \\ \ \||||||||||| | | | | | || |||| | | || |__˘   :  gaiska venam : 'san m - keva :' 'Vena- dhwaavam : [ ] [
+                                                         '
+                                   \______________________________________________________________________________________\       _/            
+
+Chip- Packets : { }  [Knive:string: 'Bill - l ill : <Tiron :  v:   []  
+                                                          [Tiron :  Kintra : "  []                      Akhamkhar : dhvoneum :  vua :'Dhoneum :  Dhall ; :  ETOM : GHAR , '
+                                                        silk Venrra  [₹abardai(..dum ,   dum , ..  thanaknawal :  passs )];       
+                                                        Dhumdham(:,dhananan-  dhananan - (90 :  89 ? :[]       TruckandbeR : DUCKANDsear:-Truck and nails ,  [hammer and poles]
+                                                         |   []                 Acquirevanch h : [] 
+                                                          [] 
+                                                         Dhovo -knowewa l : [ ] 
+                                                         Soradisk  ''Ai  manul     : Auth-change :  Hypocrisy()  
+                                                          []  
+                                                         \ -= 
+                                                         8  
+                                                          
+                                                         5  
+                                                         
+                                                         \ ):)
+                                                          [ ] 
+                                                        Trail  . kshihsihs ; " 'Ig-  del : [ ] 
+                                                        Doyekwuan : ' Setll :  soldier. . .ruderim :  call , : []  
+                                                        NoNen  should  : ' place  - an y rhythm  balls's 
+                                                        One mu st  self a and type to achieve the best keystrokes thaT stood a favourable  : ''Dockerm.Mini : 
+                                                        t In thrive he sysy panel : ' Rooot= Malfunction : ''Loist - functiopns : 
+                                                        dextereretatioN ,  ''deseererttetei  : [ ] [
+                                                         Pararco n :    [ ] 
+                                                          Dholdhey'Vra : [ 
+                                                         Snuguiththen ,   []  
+                                                         GThalakkawaamarataha,  : [ ] 
+                                                          Dhiolakindreaiaidi : [ ] 
+                                                         ]' '']>']  
