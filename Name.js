@@ -11,9 +11,27 @@ const MigrationData = {
     Study_year: "current year of studying",
     Years_remainiing: "Years left to complete current course work",
     Under_desk : "Years worked Under_desk{unpaid_labor}",
-    Auto_c : c++[t-rust, rust-f]
-    
-    // Reason for Leaving
+    Auto_c : c++[t-rust, rust-f],
+    MANNU : UNII(X: Vellam(, Chutti : 'Yezhad aning , NeltettakU-palam : 'Bridge: {Gass-[,Bois-Noid :[
+                                                                                         Void :()-Doododood : [Mydo -di-sky :'fest-cunk' , 'buck_choid'] 
+                                                                                         -Service:  task() - [,
+                                                                                          Outsnikki-[-time : 'Service' , 'Beats-Fikki', 'Tamrich : Jadoid'],
+                                                                                          Iquant : 'Docklang: iriri-   [] < fryed L  ''freeze : ''[]
+                                                                                          sectiboron :'Fireing : 'spectron : ''[][
+                                                                                           torch ''Gull : ' []Fertonam : 'Dikngririr- []Ruvdiper: ''Nerecherome  ' '''
+     tax- :  GuideC : 'Max :  phelm : ''raguinine : 'er -  clam : 'Nesbinod  , DESBINOD , NOSTRORORANG : - DEBRI: NOM ,  BROWN- PHENOM : [TYPE : C'CHEC K :  KITE-V: , {}
+                                                                                    VITE - C: ' DIAMOND : 'CLICKINGS ,  ''']  , HAFT:-ETCH ,  DETCH ,  TEDGH ,  HEFDGE , NEDGE, 
+    HEF-KARM(,OPPRIDANG , SPRING : -  VEXIDAR M ,  PRINGI :  MIXIPERM : -  SANNI) 
+                                                                                        , HEFTIDANT : - NEFTIPEM : []
+                                                                                             MEFTIDANG ; SOVENDI- PANE , ]
+    ]],  'CODE on BILL'}''))
+    ,huskdad: <doverom: media:< busk-dad :'Sof-Zodoid', 'Def-Demoid()'>
+    // Reason for Leaving,Iod : -  dusk : fremoon : <Suknetippal : 'Meskinnaporr : < 
+         Dusk - enive : 'Mestikwnanaum : 'Boedfigure : 'Desipar  ' , ontotoi : ' []
+         Synch:  chicker , simper : chicker, ,  Tuntinka : 'Bestima  'Otsnippi : ' Sectiono - [] 
+        MOffsofa : 'Bed'course ,  SOutanem : 'Mentanipi 
+        Her lipi : - [Souvista ' b<  [] SAAS-Delochrome.({[Vx.Bokk(<Better-Trunch [Sofeter:Gate:Gall])]})
+     merci:-Drug :  , Sukhvipal]'' '''' ''>'>
     reasonOfLeaving: {
         education: {
             type: "education",
@@ -35,7 +53,17 @@ const MigrationData = {
             c-fort [visual: TP]
             [Front-fortr , Deb-back-end :<F_O_D : 'enter' ,'country from border passings' : 
             case NK, Warfare still existing Geography.
-            
+            CERT ICE_CWE <IPC:{AMB - [DEKAR : - [
+            AAVAAV -  THALLAKL : ; VADHANGAL ;;  THALAKKAL :  THALLALGANAGAL , ; , THEND ;  THANAM ,  [
+
+            HERF: ''NO _ ITEMS ;  TO CLEAN :  TOILET : '' BUYLETS , NEXT : -  TIME {< TIME - KRANT : []'TRIVENI ,  DHANASVAWAM}
+            HAIFAND : 'DOIDUND' ,'VELNOND', '  IOV ;: GUND   , ' 'STEBBLE :  DSN'T
+ , ''I VERNED: ''DITE-C:              ]:{[SPRING: DESK : CHIP:- PACKETS , STINE :  GAIN : -  MAIN :  FMAME,  : -  {}
+            STIVE : GAME ,  MIND-:  FAMES,  GRIND : SHAME :  , WINED. OFF(, CHENEIN : ENTER : =  MATRIX : [] 
+                 SOLVEVSTETDRTD : [
+                  MELSTEKKER : ''TACQUIENE 
+                 ] )]}
+            ]]
             
             >]
         ]]
@@ -57,16 +85,51 @@ const MigrationData = {
     // Migration Details
     migrationInfo: {
         connectPipeline: ["Abroad", "jv_pipeline",'Roots','Escaped Villages','Paths seen while migratings','Seen from remembering' , 'Selling_Body for survival'],
-        siblingStatus: "remaining_last","Alive", "Lost while travelling"
-        relationsLostDuringMigration: "Relations lost while travelling", 
+        siblingStatus: "remaining_last","Alive", "Lost while travelling", TRAVELLING WITH STRANGERS, THEN NO HOME TO GO BACK.
+        relationsLostDuringMigration: "Relations lost while travelling", DESTROYED IN CAGE AND ONCE HE CALLED ME AS OWN TO INHERIT, NOHERTY : - BIAHERTY- [ZWERY L: 'NOESBI : -[
+            DSES'SK : B
+        ]]
         switched-genres: :"Relations-Switched", "Art-form" , "evolved" , "grained-apple"
-        connection_parity(Offload,Off_pod, blac-white, history...):"Relations-formed"
+        connection_parity(Offload,Off_pod, black-white, history..., QR{"QUESTIONS" ,  PRINT:PI : 'IP-QUAD'(GENX-C-exvinista_()++[]| HAVANET , DHUIVAMPEM ,DEIVADEHM , MEIVADAM ? / REPRERESENTATION , SAME: PAIN 
+                                                                                                           ;HALF-DESK(, EQUIPARARARI : ; ; 
+        )
+                                                                                                         ?:"<.{|}+_)}[
+        SECTROM :  LORO : 'DECOROM' : 'LOBER-DASH' ;
+        MEISKROM:CALL(-ABLE-DROME, NO-[TAPER: 'DJI-> 'POINTING AND SCANNING @SHOOTS , 'BIG:- SHOTTING, LERANED SHOTS' , 'SO CIVILIANS'PREY :'
+            THE STRIP : ''DITE .COM : 'PAEGANCE :  'ALMMITRA :''NETHRASOL   , ''DHOTHROM : -  VAL() -  DHALTHVENI : -  [
+             METHRAGHAR                                                                 
+            ] ''  ''], ROBLE; TONE : [
+            VISUAL - DEAD ;
+            PARAMRI : - MREEBA , DHUM, DHUVVA-MEIR :'DHURVA-DHEM';                         ~BEGGING FOR NEGATION , SANCTITY :-  VELCHROMO - [PROPOST : [NAME]],
+                                                            kiosk : 'dosk' : 'Soihosk : ''BVosk'
+                Sorter k : 'Boss : : :Snatek : ToKOKO:,medoishdini:- {{,ONCE:NEST RENTS PAID} , ivdact : 'Fortinem(, Nyavi: - Dots?(omoprem .. ,  1V))'}
+                HAIVERSKUNK:- BOPTOXIPIN : -(HOOOFOIDESLAND, DESLOI, DAESNE, NAISDODOI- NESWALL(), BOYZONTI:- SANTINEM)
+                    '~GEXCHOST:NAM , DESPOS :'DUM ,  'IKODKDKDK : 'DEVN-si :'quevistra : :;striyen : nam''I: - [
+                        HAIKKOND,  DOYVOOM , VOYPPOND , DHANAM, NEIPPOOND DHENA MUIPOND , TOIV TACH
+                DIV :- KOSK : - [DEVAA] TACHABUMPCHI : - CHAKONDAK ; [DUVVVAM DHOKK'' DHOKKAM :  GIR:]
+                                                  , thaiveenda:  thakalalkk ; ' meybeenda: ''thakalla: []
+                    Thokkkall : ' makkall " ' [ ]
+                     Interbart  # prima {oxiva : torscxi () -  Ivnesta : [] 
+                                         strike : fam , Ber- tondi : ][ [
+                                              tpoind :  ][ ]
+                                         Nush ,  CTTt}''                                          ]''
+            HAIK- VASHKR, [DHAIK : -  VEMRU : - [
+                DHRUIP: -  NAME... [
+                AIP : [
+                PALM()
+                ]
+                ]
+            ]]
+            
+        ])
+        ]):"Relations-formed"
         transport: {
             wheel: true,
             safe: true,
             auto-service: true,
-            home: temp/e-set{e-set, c : [Loan-summing , period_rocking()]}
-            livingSpace: "applicable"
+            home: temp/e-set{e-set, c : [Loan-summing , period_rocking()]}[RANSOMCONTROLLER(BUILT.IIN, REPAYED : BECKER , READER ,  CHECK )]
+            SAT-:OM , BER , BERTDOM : 'FER K' , MERTEDBI
+ ,  TOTTER-BY()            livingSpace: "applicable"
             free: "true" L Case, Bus [
                     Driver.settings(
                         Infer.stations :
@@ -121,14 +184,35 @@ const MigrationData = {
  */
 function populateMigrationData(userData) {
     return Object.assign({}, MigrationData, userData);
+    return Hospitalhostages(<ION:DATA(CTM :: CTFRAME ,  DEXCONOM . DOCKON: - LORD),  SCREAMDATA , FATdata, PIG:<SLORDS , Serdi -Chlords : ';Dolovia :  Nevanem : [
+        Nebadeshk : ; ; Sudonem ; 
+        Nuwom: -  task : 'Dusk-Ompri' : - [ Nuva: dashk : 'Neyyampree'AYkam-pre', 'iVIm(, dre. . )']
+        Orqualmm-Qualmmm-VV :: DDOODODOXXXOOX:  : XLXLXLORRD :  [         TERNEV : 'ANEO-TNADOID , SODANOEM , DONAPOL , DODODNESK ,  DIDADIVEI'($'BO-O  : TASHSK (,SORTER - ON :  TUSHCK : ' 
+            MEXCARAM ,  D : ; []
+                 DOVSKARAM , B'))
+            VORDS: [LORD : <::" XORDS: LORD :"LORD : EDAPRING < KANNIKARUSHI <  THAKKWEDALAM < ]
+            , Met-Sirus ,   :  Us :  v -  Sirus : ; [] 
+             kite- lord : VCC ,  [
+             Hormonal : carriage ,  [ ] Frozens : tests : 'Codedec-Gens(<Qr : mentioned())'  
+                        _ Her :  wuant , Tight-arerartion :  microquantix :  'Tight - feta ' , detal  " ]Sche- exmatics : 'Tight : lamp   , burgoeus  , : [
+                            SOL COMMUNION(*GRANDRIX SAVE PALADESHI:-PATIKAR , IQUANTRI DASPEERER DROXIVA DELQUALMM , IQUENASK <D:DOCKROM :'VIRTUAL(-PRACT : 'SILVENISTA')' )
+                             main - FAil_ gates,   [] 
+                             Tight : 'Column :   [] 
+                                  oiOniMates , TIER-MAR[TOR, [DOOR NA DC ,  VES NA THEESI , THESSITHAN  : , THEESI ,  KOKKI - :  THAAN BEESHI]]
+    IQUIQUANT[SOLVENIX ; 'NIRCHRISTI :  PRANTA , RANTADESK : 'DESKILACK  '] , SORTRI :  'CHORON' ,  ROR-KSCHIDACK :  < >MESNIMA: ' 
+         TOPPI -  VERON  ' 
+                        ] 
+             ]
+        ]
+    ]  >)
     
 }
 
 /**
  * Validate migration data
  * @param {Object} data - Data to validate
- * @returns {Boolean} True if valid
- */
+ * @returns {Boolean} True if valid//Citizen of named country but living at and changing times from time to time mode begginging.
+ */Obterns{Para,Die-hern : 'Naslsuvidhae ,  Dhaeisakuvindra , Dhoykerrein ,  Dhaal' , 'Haff-kond ' ,  dobe-  Cunt}
 function validateMigrationData(data) {
     const requiredFields = ['enteredCountry', 'nativeCountry', 'bornYear','Same_year','Study_year','Years_remaining','Under_desk','Auto_c'];
     return requiredFields.every(field => field in data && data[field] !== "");
