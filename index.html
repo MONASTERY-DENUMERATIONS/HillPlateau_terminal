@@ -27,14 +27,73 @@
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        .repository_navigator {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #e8f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-left: 4px solid #007bff;
         }
         h1 {
             color: #333;
             border-bottom: 2px solid #007bff;
             padding-bottom: 10px;
         }
+        h2 {
+            color: #0056b3;
+            margin-top: 15px;
+        }
+        h3 {
+            color: #333;
+            margin-top: 15px;
+            font-size: 1.1em;
+        }
         p {
             color: #555;
+        }
+        .sql-query {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 10px;
+            margin: 10px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            overflow-x: auto;
+            color: #333;
+        }
+        .file-link {
+            display: block;
+            margin: 8px 0;
+            padding: 8px;
+            background-color: #fff;
+            border-left: 3px solid #28a745;
+            text-decoration: none;
+            color: #007bff;
+            transition: all 0.3s ease;
+        }
+        .file-link:hover {
+            background-color: #e8f5e9;
+            padding-left: 12px;
+        }
+        .folder-link {
+            display: block;
+            margin: 8px 0;
+            padding: 8px;
+            background-color: #fff;
+            border-left: 3px solid #ff9800;
+            text-decoration: none;
+            color: #ff9800;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        .folder-link:hover {
+            background-color: #fff3e0;
+            padding-left: 12px;
         }
     </style>
 </head>
@@ -43,18 +102,85 @@
         <h1>Welcome to the Monastery Forum</h1>
         <p>This is a discussion platform dedicated to exploring monastic traditions, practices, and history. Join us in thoughtful conversations about monasteries and their cultural significance.</p>
     </div>
+    
     <div class="counter_measures">
         <h1>Select your Status of appealing to previous form of changed judgements from so called public</h1>
         <p>Appealing judgements are simply recorded for reclassifying the significance of META_DODGE : FACILITIES</p>
-    </div
+    </div>
+
+    <div class="repository_navigator">
+        <h2>Repository Navigator - SQL Resource Catalog</h2>
+        <p>Access repository components through semantic querying:</p>
+        
+        <h3>SQL Query Example:</h3>
+        <div class="sql-query">
+            SELECT * FROM repository_files WHERE type='file' OR type='directory' ORDER BY name ASC;
+        </div>
+
+        <h3>Header Files (C/C++ Declarations)</h3>
+        <a href="BEAM.h" class="file-link">BEAM.h - Core BEAM Definitions</a>
+        <div class="sql-query">SELECT * FROM files WHERE name LIKE '%.h' AND category='declarations';</div>
+        
+        <a href="Enum.h" class="file-link">Enum.h - Enumeration Definitions</a>
+        <a href="Fod_coupon.h" class="file-link">Fod_coupon.h - Coupon System Headers</a>
+
+        <h3>Source Code Files (C/C++)</h3>
+        <a href="Frontier_TECH.c" class="file-link">Frontier_TECH.c - Core Technology Module</a>
+        <div class="sql-query">SELECT * FROM files WHERE extension='c' AND size > 5000 ORDER BY size DESC;</div>
+        
+        <a href="counter.c" class="file-link">counter.c - Counter Implementation</a>
+        <a href="Main-Entrance.cpp" class="file-link">Main-Entrance.cpp - C++ Entry Point</a>
+
+        <h3>JavaScript Files</h3>
+        <a href="Name.js" class="file-link">Name.js - Data Migration & Naming</a>
+        <div class="sql-query">SELECT * FROM files WHERE extension='js' AND language='JavaScript';</div>
+        
+        <a href="Packet.js" class="file-link">Packet.js - Packet Processing</a>
+        <a href="vue.js" class="file-link">vue.js - Vue.js Component</a>
+
+        <h3>Configuration & Documentation</h3>
+        <a href="package.json" class="file-link">package.json - NPM Package Configuration</a>
+        <div class="sql-query">SELECT * FROM files WHERE name IN ('package.json', 'README.md', 'constcur.md');</div>
+        
+        <a href="README.md" class="file-link">README.md - Project Documentation</a>
+        <a href="constcur.md" class="file-link">constcur.md - Constraint & Currency Information</a>
+
+        <h3>Directories</h3>
+        <a href=".github/" class="folder-link">📁 .github - GitHub Configuration</a>
+        <div class="sql-query">SELECT * FROM directories WHERE name LIKE '.%' OR category='configuration';</div>
+        
+        <a href="con/" class="folder-link">📁 con - Container/Constraint Resources</a>
+
+        <h3>Repository Statistics</h3>
+        <div class="sql-query">
+            SELECT COUNT(*) as total_files FROM files 
+            UNION ALL 
+            SELECT language, COUNT(*) FROM files GROUP BY language;
+        </div>
+        <p><strong>Language Distribution:</strong> C (75.9%) | JavaScript (15.5%) | C++ (4.6%) | HTML (4%)</p>
+    </div>
 
     <script>
         const welcomeMessage = "This your one source destination for achieving observing and conducting new state of Nirvana Proclaims / Continued and after";
         console.log(welcomeMessage);
-        <script src="Name.js"></script>
-<script>
-    console.log(MigrationData);
-</script>
+        
+        // Repository metadata query
+        const repositoryQuery = {
+            name: "HillPlateau_terminal",
+            organization: "MONASTERY-DENUMERATIONS",
+            description: "The place where daemons gets categorized. Where route terminal descriptions and fact derive basis is counteracted to form urgencies that might need actions to take care of future adjusting.",
+            primaryLanguage: "C",
+            fileCount: 15,
+            directoryCount: 2
+        };
+        
+        console.log("Repository Metadata:", repositoryQuery);
+    </script>
+    <script src="Name.js"></script>
+    <script>
+        if (typeof MigrationData !== 'undefined') {
+            console.log(MigrationData);
+        }
     </script>
 </body>
 </html>
