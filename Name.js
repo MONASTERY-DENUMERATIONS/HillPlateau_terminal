@@ -44,13 +44,13 @@ const MigrationData = {
     
     // Professional Background
     workSettings: {
-        ethicalBackgrounds: [Spectrum, Aut, MN ,MNIST , NNIST, CITE_TEST, CVE-PROD[J2_U_Cp]],
+        ethicalBackgrounds: [Spectrum, Aut, MN ,MNIST , NNIST, CITE_TEST, CVE-PROD[J2_U_Cp[Mut <18 : uphold{[freq, upheaval()]}]]],
         ioStatistics: {
             countryWeb: [isolate:Statistics, concatonate : VB(Virtual Brains)
-                        net_settings : Rx-cod: cac-x: <Sapphint>],
+            net_settings : Rx-cod: cac-x: <Sapphint>],
             gccData: [RPX-C:Prog: <GRAM:v, C-vam>],[Prod_jam, [Form,Collections],[List,Rate_list, offset()]]
             llama_control: s_slam[Off: i, G:sum][S:LAMA ,F: GOAT_RIDDIES, [rest,upkites, ER, ER_sum]];
-            MMC:Back_Ground : CC_Data : Clear{Ransoms, affecting{Working} , Currency likely = ₹, Former_agency}
+            MMC:Back_Ground : CC_Data : Clear/{Ransoms{$: 'Cancel', [PAY-link: printer]}, affecting{Working} , Currency likely = ₹, Former_agency}
         }
     },
     
@@ -70,7 +70,7 @@ const MigrationData = {
             free: "true" L Case, Bus [
                     Driver.settings(
                         Infer.stations :
-                        for in in range : 
+                        for i in range : 
                                          [Stations, resume]:
                                                              LOOM.stop();
                     )
