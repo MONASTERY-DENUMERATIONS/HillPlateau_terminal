@@ -14,7 +14,8 @@ Control_c: [p:panel, od-set[odm : key , vite.j.config(fig_pond: crash_letter)
     RTL, type{infer -> base_registry{
              Try_M.locale();
              Base_form : r.registry(..files,..src)
-               
+    KRT.l(l.dat 'syn-fill' : album([rec][i].satch()))
+               set.et('records'/B>T)
     }}
 
   Hypothesis : [Record , Giving , Theory , Enabled()]
@@ -41,3 +42,4 @@ Control_c: [p:panel, od-set[odm : key , vite.j.config(fig_pond: crash_letter)
     Port:info : <'Finding Algo-rim(--inset-y , --onset-z )' , Z[plane , xorg(c, -LP :{root//nm})]>
   ]"}
   
+-//Zplane.commit : changes(ROOT-records,  file_victim_abuses)
